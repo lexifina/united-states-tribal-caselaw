@@ -1,0 +1,62 @@
+---
+court: "Navajo Nation Supreme Court"
+docket: "A-CV-26-88"
+decided: "1989-03-14"
+citations: ["6 Navajo Rptr. 81"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before TSO, Chief Justice, BLUEHOUSE and AUSTIN, Associate Justices."]
+parties: ["In the Matter of the Removal of: Karl Katenay, as President of Iyanbito Chapter"]
+source_url: "https://static.case.law/navajo-rptr/6/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 530298
+---
+
+# In re the Removal of Katenay
+
+## Majority (TSO, Chief Justice.)
+
+OPINION
+Opinion delivered by
+TSO, Chief Justice.
+I
+This is an election case in which the Appellant, Karl Katenay, appealed the November 30, 1988 decision of the Navajo Board of Election Supervisors denying him the right to appeal a disputed chapter recall election.
+On October 17, 1988, the Navajo Board of Election Supervisors ("Board") received a Statement of Grievance and Petition requesting the removal of Karl Katenay as Iyanbito Chapter President. On October 21, 1988, the Board verified the signatures on the petition and, after finding sufficient valid signatures of persons registered to vote in Iyanbito Chapter on the petition, it set a chapter hearing on the matter for October 31, 1988.
+The Board notified those petitioning for removal of Katenay of the chapter hearing on October 26, 1988, and gave Katenay formal notice in a letter delivered to him at approximately 10:00 a.m., on October 27, 1988. Katenay was not invited to attend the verification process, and has since been denied any opportunity to independently verify the authenticity and sufficiency of the signatures on the petition.
+Immediately preceding the October 31, 1988 chapter hearing, Katenay requested a continuance, stating that he had not been given adequate time to prepare his case. The Board denied the request and proceeded with the hearing over Katenay's objection.
+The chapter hearing took place at Iyanbito Chapter. At the conclusion of the hearing, the Board announced that a special recall election would take place on November 10, 1988. The recall election resulted in 122 votes cast in favor of retaining Katenay as Chapter President, 154 votes cast against retaining Katenay, and 2 challenge votes cast, which were thrown out.
+On November 21,1988, Katenay filed a Statement of Grievance appealing the special recall election. The Board rejected this appeal as not timely filed and, finding that no appeal had been filed within ten calendar days of the election, or November 20,1988, as required by 11 N.T.C. § 407, certified the election results. A formal Board decision rejecting Katenay's November 21, 1988 appeal was issued on November 30, 1988.
+An appeal of the Board's decision was filed in this Court on December 9,1988. This appeal raised three issues: (1) Whether Katenay's appeal of the special recall election was barred by 11 N.T.C. § 407, because the appeal was filed on the first working-day after the ten calendar days period had expired; (2) Whether the Board denied Katenay adequate time to prepare his case for the chapter hearing held on October 31,1988; and (3) Whether the Board, in holding the election ten days after the hearing, failed to conduct the special recall election in accordance with 2 N.T.C. § 4005 (c)(3-4).
+II
+Timeliness of Katenay’s Statement of Grievance
+The procedures for appeal of a disputed chapter election are set forth at 11 N.T.C. § 407(a), which states:
+A disputed chapter election for any office in a chapter shall be appealed in writing within 10 calendar days following the election to the Board of Election Supervisors by the aggrieved candidates.
+Katenay filed an appeal of the November 10, 1988 special election to recall him as president of Iyanbito Chapter on November 21,1988. The ninth and tenth calendar days after the recall election fell on a Saturday and a Sunday. Katenay was unable to file an appeal on either of those days because the Board offices were closed over the weekend. Katenay filed his appeal on Monday, the next working day. The Board denied Katenay’s appeal without a hearing for failure to timely file his appeal.
+Many states have statutes providing specifically, or in effect, that if the last day on which an act is to be done falls on a Saturday, Sunday or holiday, that day is to be excluded from the computation of time. 74 Am. Jur. 2d Time § 19 (1974). In other states, the rule has obtained as a matter of practice. Id. The time allowed for an appeal is usually prescribed by statute or rule of court. 4 Am. Jur. 2d Appeal and Error § 310 (1964). Although no Navajo Tribal Code provision has been enacted specifically for this purpose, the same rule has been adopted by our courts. Rule 30 of the 1978 Navajo Rules of Civil Procedure provides that:
+In computing any period of time allowed by these rules, by order of the court, or by any applicable law ... [t]he last day of the period so computed is to be included, unless it is a Saturday or Sunday or court holiday, in which event the period runs until the end of the next day which is neither a Saturday or Sunday nor a holiday.
+Rule 5(a) of the Navajo Rules of Civil Appellate Procedure adopts the same rule, with only immaterial changes in wording. Rule 5(a) states:
+In computing any time limits required by these rules, or by order of the Supreme Court, or by any applicable law, the day of the act, event, or judgment shall not be included. The last day of the period so computed is to be included unless it is a Saturday, Sunday, or court holiday, in which case the period shall extend to the end of the next business day which is not a Saturday, Sunday, or court holiday.
+The Board assumes quasi-judicial status when it reviews an appeal of a disputed chapter election. This is a solemn task, with serious consequences for the affected official, including ineligibility to run for chapter office again for at least five years from the date of removal. 2 N.T.C. § 4005(d). Because of this, the Navajo Tribal Council has authorized appeal of the Board's decision to this Court. 11 N.T.C. § 407(c) states:
+A decision of the Board of Election Supervisors upholding or vacating a disputed chapter election may be appealed within 10 calendar days to the Court of Appeals [Supreme Court] of the Navajo Nation.
+Time computation for appeal to this Court is governed by Rule 5(a) of the Navajo Rules of Civil Appellate Procedure. Had the final day for Katenay to appeal to this Court fallen on a Sunday, it would have been excluded from the computation of time, giving Katenay until the end of the next working day.
+The reason for excluding Saturdays, Sundays and holidays from computation of appeal time is so that the appellant can have use of all days he is entitled to. The Navajo Tribal offices and the courts are closed on Saturdays, Sundays and holidays so it is impossible to file an appeal on those days.
+Katenay had ten days to file an appeal, but two of those days fell on a weekend, leaving Katenay with only eight days to file. Katenay is entitled to all ten days. We therefore hold that under 11 N.T.C. § 407, if the tenth calendar day falls on a weekend or a holiday, then the appeal can be filed on the next working day which is not a weekend or holiday.
+Ill
+Adequacy of the opportunity given Katenay to prepare this case
+Katenay was given notice on Thursday, October 27, 1988, that the Board had received a recall petition on October 17, 1988. After verifying the signatures on the petition, the Board set a chapter hearing on the matter for Monday, October 31, 1988. By his own calculation, this left Katenay with only fourteen hours to obtain the assistance of counsel and secure three witnesses to testify on his behalf at the hearing.
+Under 2 N.T.C. § 4005(c) (1-2), once the Board has verified a removal petition, it must notify the affected chapter officials and “schedule a hearing at the affected chapter, at which both the affected official and the signers of the petition shall have the opportunity to present their case.” By our calculation, Katenay had four days to prepare his case. Two of the four days were a weekend. We hold that four days in this case were not sufficient time to prepare for the chapter hearing. Katenay had to travel long distances to obtain counsel and secure witnesses. He faced problems with locating people on the weekend, along with the general obstacles associated with life in rural areas.
+Katenay also did not have an adequate opportunity to prepare his case in another respect. He was not allowed to view the recall petition or attend the verification process. Although 2 N.T.C. § 4005(c) is silent on this matter, fairness and due process are best served by requiring that the Board give an affected official or his authorized representative adequate notice and an opportunity to attend the verification process.
+IV
+The Board's non-compliance with recall election Procedures
+The Board concluded a chapter hearing on the petition at Iyanbito Chapter on October 31, 1988. At the conclusion of the hearing, the Board set November 10, 1988, as the date for a special election to recall Katenay. When reviewing actions taken by the Board, this Court will determine whether the Board abused its discretion, violated the rights of contestants, or failed to follow its own procedures or those mandated by the Navajo Tribal Council. Mustach v. Navajo Board of Election Supervisors, 5 Nav. R. 115, 118-19 (1987).
+2 N.T.C. § 4005(c) provides:
+(3) At the conclusion of the hearing, a secret ballot shall be taken to determine whether or not the official shall be removed, (emphasis added).
+(4) A majority vote of those present and voting shall be required for removal, (emphasis added).
+By scheduling the recall election ten days after the hearing, instead of conducting a secret ballot of those present immediately after the hearing, the Board failed to follow Navajo law on removal of chapter officials. As a result, instead of confining the ballot to the fifty or so persons who attended the hearing and heard the witnesses who spoke in Katenay's defense, some 278 persons were allowed to vote in the recall election.
+The procedures established in 2 N.T.C. § 4005 for removal of chapter officials were not intended to be followed at the Board's discretion. Mustach, 5 Nav. R. at 118. They function to protect the due process rights of signatories of a removal petition and affected chapter officials.
+An elected official does not have a property right in public office. The office belongs to the voting public. Katenay's due process rights do not stem from his position as a holder of elected office. His due process rights are derived from 2 N.T.C. § 4005, which gives him the right to explain to his constituents the grievances against him and to be voted out of office, or retained, by persons who were present during his explanation.
+The Board's failure to follow 2 N.T.C. § 4005, as it relates to the special election to recall Katenay, denied him due process. Section 4005 requires a vote by secret ballot at the conclusion of the hearing to determine whether Katenay should be removed. The law does not allow a vote to be taken ten days after the chapter hearing.
+The Board argues that the special recall election was held ten days after the October 31, 1988 hearing, because the electronic voting machines use specially printed ballots which require a minimum of ten days to print. This argument is not persuasive considering that the Board was put on notice on October 17,1988, of the inevitability of a recall election following the signature verification. 2 N.T.C. § 4005(c) (3). Thus, the Board should have immediately ordered the ballots and scheduled the chapter hearing to coincide with the date the ballots would be ready.
+For these reasons, we must overturn the results of the special election held on November 10, 1988 to recall Katenay, and remand the matter to the Board to begin from the stage where the Statement of Grievance and Petition against him were received. The Board must afford Katenay or his authorized representative the opportunity to be present during the verification process. If the Board again finds sufficient valid signatures on the petition, it shall proceed as mandated in 2 N.T.C. § 4005. Meanwhile, Katenay is restored as Iyanbito Chapter President.
+Reversed and Remanded.
