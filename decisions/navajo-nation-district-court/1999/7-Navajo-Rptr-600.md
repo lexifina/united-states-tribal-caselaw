@@ -2,7 +2,7 @@
 court: "Navajo Nation District Court"
 docket: "SR-CV-04-95"
 decided: "1999-04-23"
-citations: ["7 Navajo Rptr. 600", "7 Navajo Rptr. 614", "7 Navajo Rptr. 596", "7 Navajo Rptr. 612"]
+citations: ["7 Navajo Rptr. 600"]
 reporter: "navajo-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
