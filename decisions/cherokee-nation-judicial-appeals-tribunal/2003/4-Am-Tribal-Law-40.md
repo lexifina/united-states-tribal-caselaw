@@ -2,7 +2,7 @@
 court: "Cherokee Nation Judicial Appeals Tribunal"
 docket: "JAT-02-10"
 decided: "2003-01-21"
-citations: ["4 Am. Tribal Law 40", "4 Am. Tribal Law 39"]
+citations: ["4 Am. Tribal Law 40"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["Robin MAYES, Petitioner, v. Chadwick SMITH, in his Individual and off
 source_url: "https://static.case.law/am-tribal-law/4/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7344545
-cites_cases: ["412 U.S. 306"]
 ---
 
 # Mayes v. Smith
