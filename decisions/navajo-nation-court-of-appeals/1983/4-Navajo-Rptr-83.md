@@ -1,0 +1,36 @@
+---
+court: "Navajo Nation Court of Appeals"
+docket: "A-CV-16-82"
+decided: "1983-09-30"
+citations: ["4 Navajo Rptr. 83"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Appeal heard February 24, 1983 before Acting Chief Justice Robert B. Walters and Associate Justices Marie F. Neswood and Henry Whitehair."]
+parties: ["Mary MANN, Appellant, vs. THE NAVAJO TRIBE and Jerry A. McCABE, Appellee."]
+source_url: "https://static.case.law/navajo-rptr/4/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686645
+---
+
+# Mann v. Navajo Tribe
+
+## Majority
+
+This is an appeal in a negligence action, and it was tried as a trial de novo before the full Court of Appeals. This opinion constitutes the findings of fact and conclusions of law of the Court of Appeals in the matter tried to it.
+THE FACTS
+This case is a very sad example of the result of breaches of Navajo law at Navajo traditional ceremonies. While liquor is illegal in the Navajo Nation, there are those who do not only choose to break the secular law, but to defile a sacared Navajo ceremony by becoming intoxicated. In this case a breach of Navajo statutory and sacred law resulted in a death.
+On September 6, 1980, the second night of an Enemyway Ceremony (popularly known as a Squaw Dance), was held approximately one mile south of Arizona State Route 264 milepost 460.8. This location is near a popular picnic area called the Summit because it is at the summit of a small mountain between Window Rock and Ganado. As it is with many of these curing ceremonies, there are large numbers of people in attendance. Often family and clan members of the patient for whom the ceremony is held will attend, and many friends and acquaintances will also attend. On this particular night there were many in attendance at the Enemyway Ceremony, including Dan Mann, a 51 year-old man. The ceremony was held at night, and there was a good deal of drinking taking place.
+The principle ceremony takes place in a special hogan, and a crowd gathers in an area nearby. On that night Mr. Mann did a great deal of drinking, and people noticed that he was highly intoxicated. At some time between 9:45 and 10:00 p.m. a witness saw Mr. Mann standing by a vehicle and then stagger away from it and the crowd into a sagebrush area around the crowd. He was found dead by the witness 30 to 45 minutes later. He had apparently been run over by a vehicle.
+In reconstructing the events of that night and the death it was discovered that Officer Jerry A. McCabe had driven his police van in the area to make a security check of the ceremony for law violations or interference with it, and in the course of his check he drove the police panel truck in a circle and along a track around the dancers, participants and observers. The natural suspicion was that Officer McCabe had been responsible for Mr. Mann's death.
+It is very important at this point to remember that whether or not Officer McCabe was the cause of Mr. Mann's death is entirely different from the question of whether he is legally liable for that death. Under Navajo statutory law, (Navajo common law not having been raised here), there can be no legal liability unless there was carelessness in causing the death. 7 N.T.C. Sec. 701(b). That is, that there was come legal duty which Officer McCabe owed to Mr. Mann, and which Officer McCabe breached, proximately causing the death.
+There were many vehicles at the ceremony, and there were no witnesses to the fact that Officer McCabe's vehicle was the one causing the death. One witness said that his was the only vehicle driven around the circle at about the time of death, and we may accept that as a fact for the sake of argument.
+The evidence shows that the police vehicle was properly equipped for rough country work, with proper lights for night work. McCabe drove his vehicle slowly around the assembled people, looking into the crowd and carrying out his assigned task of making certain the ceremony was protected. He was not aware of striking anything as he drove around the crowd, and it was only later that the death was discovered and the possibility of Officer McCabe causing it was raised.
+The court is satisfied that the officer drove slowly and properly under the circumstances.
+What duty was owed to Mr. Mann by Officer McCabe? Very simply the duty of carrying out police patrol duties in a manner appropriate for the crowd conditions, the time of day and the terrain. It is more than likely that Mr. Mann went out into the sagebrush and passed out. The sagebrush grows thick and tall, and it is easy for a man to be concealed in its growth.
+The court weighed Officer McCabe's testimony and the description of the witnesses of the conditions, and it finds that the duty to conduct police patrol duties in a careful manner, considering the circumstances, was indeed carried out and it was not breached as to Mr. Mann.
+While we may conclude that perhaps Officer McCabe's conduct was the proximate cause of death, it was not a proximate cause in breach of any duty.
+While this court does not condone any careless driving through sagebrush in the dark near an Enemyway Ceremony, it can certainly be said that an individual who drinks himself into a stupor, passing out in the sagebrush, assumes the risk of someone driving over him. There are limits to the requirements of the law in requiring drivers to take care for pedestrians, and there is certainly no policy requirement that this court tell an otherwise cautions driver that he must forsee the possibility of a drunk in the sagebrush at Enemyway Ceremonies.
+This court rules in favor of the defendants, and although we do not make it a part of this ruling for the purpose of stating the law, those who break statutory and sacred law by drinking at Enemyway Ceremonies should be prepared to suffer punishment for their misconduct. While society should take the special needs of alcoholics into account, they should not be babied and they should be aware of their responsibilities to themselves and society. Mr. Mann's conduct was responsible for his death, and Mr. Mann's conduct decided his fate.
+The court also notes that while the plaintiff's theory for recovery was a state law-based negligence one, our law applicable to this situation is that found in 7 N.T.C. Sec. 701(b), which provides for fair compensation where an injury is inflicted as the result of carelessness. "Carelessness" is actually the same legal standard as "negligence," but it is a matter of applying our statute rather than state law principles. This court also finds that although it may be said that the death was the result of an "accident," and the court could award a reasonable part of the loss suffered under 7 N.T.C. Sec. 701(d), there is no just or equitable consideration to cause it to do so. The Navajo Nation will not be required to pay the estate of Mr. Mann for his death, since it was his action which caused it. As a matter of public policy the court should not compensate drunks for injuries they cause themselves without a strong public policy reasons for doing so.
+The decision of the Window Rock District Court is affirmed.
