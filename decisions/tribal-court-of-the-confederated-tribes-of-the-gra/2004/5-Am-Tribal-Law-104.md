@@ -2,7 +2,7 @@
 court: "Tribal Court of the Confederated Tribes of the Grand Ronde Community"
 docket: "C-02-10-007"
 decided: "2004-07-22"
-citations: ["5 Am. Tribal Law 104", "5 Am. Tribal Law 105"]
+citations: ["5 Am. Tribal Law 104"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
