@@ -2,7 +2,7 @@
 court: "Mohegan Gaming Disputes Trial Court"
 docket: "GDTC-T-03-116-FAM"
 decided: "2003-09-02"
-citations: ["4 Am. Tribal Law 567", "2 G.D.R. 25", "4 Am. Tribal Law 568", "2 G.D.R. 31"]
+citations: ["4 Am. Tribal Law 567", "2 G.D.R. 25"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["Michael YOUNG v. MOHEGAN TRIBAL GAMING AUTHORITY."]
 source_url: "https://static.case.law/am-tribal-law/4/cases/0567-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7348099
-cites_cases: ["1 Am. Tribal Law 539", "436 U.S. 49", "885 F.2d 627"]
 ---
 
 # Young v. Mohegan Tribal Gaming Authority
