@@ -1,0 +1,47 @@
+---
+court: "Navajo Nation Supreme Court"
+docket: "SC-CV-35-94"
+decided: "1996-12-06"
+citations: ["7 Navajo Rptr. 253"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before AUSTIN, Acting Chief Justice, MORRIS and SLOAN, Associate Justices (by designation)."]
+parties: ["Charles Billie, Etta Billie and Desert Memorial, Appellants, v. Henry Shorty Nez, et al., Appellees."]
+source_url: "https://static.case.law/navajo-rptr/7/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 528766
+---
+
+# Billie v. Nez
+
+## Majority (AUSTIN, Acting Chief Justice.)
+
+OPINION
+Opinion delivered by
+AUSTIN, Acting Chief Justice.
+This is an appeal of a Window Rock District Court order dated August 8, 1994, which denied a motion for a stay of a writ of execution and ordered the delivery of $8,977.82 into court to partially satisfy a judgment. We affirm the order and remand to the district court for proceedings concerning the execution upon the vehicles.
+I
+On June 10, 1991, the Window Rock District Court granted a judgment in the amount of $100,089.33, plus $475 in costs, to Henry Shorty Nez, Annie S. Begay and Elizabeth Nelson (Appellees). The judgment, which was against Desert Memorial (a mortuary), Charles Billie, and Etta Billie (Appellants), was for the negligent handling of a dead body, a purchase of clothing for that decedent, and punitive damages.
+On June 30, 1994, the district court issued a writ of execution (also styled a writ of attachment) directed to the branch manager of Norwest Bank in Tuba City, Navajo Nation (Arizona). It commanded the bank manager to deliver funds in the Appellants’ accounts (up to the total of the judgment) to the court clerk. The Appellants filed a motion to stay the writ of execution, and after a hearing held on August 8,1994, the court denied the motion for stay and ordered that the $8,977.82 deposited with the court be delivered to the Appellees. The Appellants’ appeal that denial.
+On appeal, the Appellants claim that the writ of execution was actually a writ of garnishment, which they assert is not permitted under existing Navajo Nation law. They also claim that it was improper for the district court to issue the writ of execution without prior notice to them. Finally, they assert that two of the Appellants’ business vehicles were improperly seized.
+II
+The issues the Court will address are these: 1) Does the scope of a writ of execution under 7 N.N.C. §§ 705-706 (1995) encompass the seizure of a judgment debtor’s bank account as “unrestricted and nonexempt personal property”; and 2) Is a judgment debtor entitled to notice and an opportunity to be heard prior to the issuance of a writ of execution or are a judgment and the terms of our execution statutes sufficient prior notice.
+Ill
+We decline to address the parties’ arguments about the law of garnishment in this appeal, because the issues raised are squarely addressed by a plain reading of our execution statutes. Two of those statutes are particularly relevant to our inquiry: 7 N.N.C. § 705 and 7 N.N.C. § 706. The first states in relevant part as follows: “The party in whose favor a money judgment is given by the Courts of the Navajo Nation may at any time within five years after entry thereof have a writ of execution issued for its enforcement....” 7 N.N.C. § 705. The second states as follows:
+A writ of execution shall be issued by the Clerk of Court and addressed to any regular commissioned Navajo Nation Police Officer and shall direct him to seize and deliver to the Clerk of Court sufficient unrestricted and nonexempt personal property of the debtor to pay the judgment and costs of sale. The writ shall specify the particular property to be seized.
+7 N.N.C. § 706.
+We take the liberty here to explain what a writ of execution is in Navajo Nation law. The body of section 706 gives a definition for our purposes: It is an order of the court (issued by the clerk) which commands a Navajo Nation Police Officer to seize enough “unrestricted and nonexempt personal property of the debtor” to satisfy a judgment and costs. The statute permits seizure of all “personal property of the debtor.” The term “unrestricted” applies to property held in trust for an individual Indian or property leased or permitted by the Navajo Nation, such as an allotment, homesite lease, or grazing permit. The term “nonexempt” refers to the exemptions from execution set forth in 7 N.N.C. § 711 (1995). In addition, the Navajo Rules of Civil Procedure directs that money judgments are enforced through a writ of execution “unless the court directs otherwise.” Nav. R. Civ. P. 68.
+The Navajo Nation judgment execution statute is remedial legislation which must be construed liberally to carry out its purposes. That is, if the judgments of the Navajo Nation courts are to have credibility, and if our courts are open to all to redress complaints and grievances which are recognized by law, then Navajo Nation court judgments must be enforceable. The parties who litigate in our courts have these expectations and the execution statutes are designed to bring their disputes to a timely conclusion.
+We believe the Navajo Nation Council chose the term “personal property” for our execution statute rather than the American common law’s “goods and chattels” for a reason. Navajo thinking of personal property encompasses a wide range of ownership, including bank accounts in the name of a judgment debtor. We, therefore, hold that a bank account in the name of a judgment debtor is “personal property” as that term is used in our execution statutes and such may be reached through a writ of execution.
+Although the parties did not raise this issue, the next level of inquiry would be whether the Appellants’ bank account was exempt from execution. We believe this issue is essential to the application of section 706 and the execution process. The exemption statute, at 7 N.N.C. § 711(A) (2), provides that there may be execution upon “[a]ny chattel, legal title to which is in the plaintiff or upon which the plaintiff holds a lawful lien....” Under English common law, a “chattel personal” included “... money ... and anything else that can properly be put in motion, and transferred from place to place.” 2 W. Blackstone, Commentaries *387. In Blackstone’s time, people kept money in strong boxes or other places of safekeeping. Today, they put money in banks. We coalesce Navajo concepts of property (Navajo common law) and English common law, and apply it to modem situations, to hold that bank accounts in the name of a judgment debtor are personal property subject to execution under sections 706 and 711.
+The Appellants’ argument that the district court did not direct the writ of execution to a Navajo Nation Police Officer is de minimus (something minor and thus to be ignored). The court chose to direct the writ to the bank, which held the Appellants’ funds, and that change of procedure, which was within the court’s discretion, did not prejudice them.
+IV
+The Appellants argue that they were entitled to prior notice and an opportunity to be heard before the district court could issue a writ of execution. We disagree. The execution statute, 7 N.N.C. § 706, sets forth the procedure for issuance of a writ of execution. It does not require prior notice as the Appellants claim. A court clerk issues the writ as a ministerial act, and the only precondition is the existence of a valid judgment, which is a matter of court record. In this particular case, the writ of execution recognized a valid judgment and stated its total sum. It is inconsequential that the district judge, rather than a court clerk, signed the writ.
+Prior notice, as a matter of due process, is designed to prevent takings of property which are contrary to due process of law. Begay v. Navajo Nation, 6 Nav. R. 20 (1988). The Appellants were provided due process when they were given opportunities to be heard on the merits, and on appeal. We hold that the statutory execution provisions and the existence of a final judgment in the court record are sufficient notice to a judgment debtor that a court clerk may issue a writ of execution.
+V
+The Appellants assert that the district court improperly issued a writ of execution for the seizure of vehicles with liens upon them. We do not have the benefit of the district court’s findings on this issue and the Appellants’ brief is not much help. The Appellants should have moved the district court to amend its order to address that issue if it wanted appellate review. See Nav. R. Civ. P. 59.1. However, we are concerned about the potential rights of lien holders to property subject to execution. For that reason, we remand the issue of the vehicles to the district court to decide whether they were “personal property of the debtor” for purposes of execution.
+VI
+The Window Rock District Court order of August 8, 1994 is affirmed. The issue of the vehicles is remanded for further proceedings.
+. The June 10, 1991 judgment shows that the Appellants surrendered their right to be heard by nonappearance at the time of trial. Nez, et al. v. Desert Memorial, et al., No. WR-CV-385-89.
+. We dismissed the appeal of the June 10, 1991 judgment for lack of prosecution by the Appellants. Desert Memorial, et al. v. Nez, et al., No. A-CV-31-91 (order dated October 31, 1991).
