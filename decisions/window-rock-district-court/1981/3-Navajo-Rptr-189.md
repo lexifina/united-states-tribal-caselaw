@@ -1,0 +1,28 @@
+---
+court: "Window Rock District Court"
+docket: "WR-CR-6107-81"
+decided: "1981-11-10"
+citations: ["3 Navajo Rptr. 189"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NAVAJO NATION, Plaintiff, v. KAREN HALONA, Defendant."]
+source_url: "https://static.case.law/navajo-rptr/3/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11639984
+---
+
+# Navajo Nation v. Halona
+
+## Majority (Honorable Tom Tso, Judge presiding.)
+
+OPINION AND ORDER
+Honorable Tom Tso, Judge presiding.
+This matter comes before the Court on the defendant's motion to suppress physical evidence, dated October 05, 1981.
+The defendant complains that some ground leaves of a green vegetable substance, three roach clips, a matchbook and cigarette papers, a bottle with seeds and a fish bowl should be suppressed as evidence in this case. The basis for the complaint is that Rule 23 of the Rules of Criminal Procedure was not followed, items not recited in. the warrant were seized and the warrant was not based upon probable cause.
+The affidavit supporting the application for the search warrant shows that a Navajo police officer went to the house which was searched for a proper purpose - to try to locate the place of an incident for which the officer was called. When the officer went to the door she saw a plant on a window shelf. The officer had a right to knock on the door while investigating a case, and she had a right to check the rear of the house while performing her duties. In short, she has a right o be there. This court cannot help but take judicial notice of the fact that our Navajo police officers are given extensive training in drug identification and detection, and certainly officers can make a sufficient identification of plants to report a justified suspicion of the presence of a marijuana plant. If someone happens to have suspicious-looking plants with a leaf pattern which looks like marijuana, they cannot complain later if action is taken to investigate the matter further. The point is that police officers are entitled and indeed have a duty to act when they see what appears to be marijuana while performing their duties.
+The affidavit properly showed the court there was probable cause to believe a crime was being committed on the premises, and officers searched the house based upon a warrant valid on its face.
+True, the warrant was limited to the seizure of "marijuana.'' That certainly dispose of the suppression of the vegetable substance and the seeds because those items were within the scope of the warrant itself. As to the roach clips, the matchbook and cigarette papers and the fish bowl, roach clips are certainly associated with marijuana, as are cigarette papers, an they are properly seizable evidence with respect to the scope of the warrant. As to the fish bowl, it is the court's understanding that the bowl is a container for some of the evidence properly seized. Therefore the Court finds all the items seized to be within the scope of a valid search.
+Of more concern is the fact the police officers conducting the search did not fully comply with the inventory requirements of Rule 23. It appears that the defendant returned to her home while the search was in progress, and while she was present for the purpose of preparation of an inventory and receipt in accordance with the rule, the inventory was not made in her presence and another police officer witnessed it. The inventory requirement is mandatory and it is imposed upon the police for a proper purpose - to protect the rights of a person whose property is seized so that property may not be lost or that property which was not seized during the search may not be introduced into evidence at trial.
+The Court is placed in a quandry because this ruling should not constitute a judicial approval of the breach of the rules of court. However the conduct of the officers in failing to properly compile and deliver an inventory does not rise to "constitutional" proportions under the provisions of the Indian Civil Rights Act. Exclusionary rules are based upon legal fictions. That is, the courts make a determination that certain kinds of conduct on the part of the police constitute the violation of basic rights. The compilation and delivery of an inventory is not a basic right and indeed many jurisdictions do not have our strict requirements. In the absence of the violation of a fixed right under the Indian Civil Rights Act a defendant must be prepared to come before the court and show how police conduct or misconduct injures him or her or how it prejudices his or her defense. In this case the presence of absence of an inventory made and delivered on the scene in a proper way does not appear to affect the defendant's case. The defendant has access to the inventory which was prepared, and she can challenge the introduction of any item of evidence by testimony a certain item was not taken from her home or by challenging the police chain of evidence.
+To summarize: The conduct of the police in this case is condemned, but that failure to fully perform a mandatory duty cannot be the basis for the granting of a motion to suppress because there was no injury and there is no shown prejudice. The warrant was supported by probable cause, the items seized were within the scope of a proper search and the requirements of the Navajo Bill of Rights and the Indian Civil Rights Act were met. Therefore it is hereby ORDERED that the defendant's motion to suppress physical evidence should be and is hereby DENIED.
