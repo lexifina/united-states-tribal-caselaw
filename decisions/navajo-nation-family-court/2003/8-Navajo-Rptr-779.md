@@ -1,0 +1,43 @@
+---
+court: "Navajo Nation Family Court"
+docket: "KY-FC-332-02"
+decided: "2003-04-09"
+citations: ["8 Navajo Rptr. 779"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Estate of Alfred LUNA, Sr. Deceased"]
+source_url: "https://static.case.law/navajo-rptr/8/cases/0779-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3549644
+---
+
+# In re Estate of Luna
+
+## Majority
+
+ORDER
+This Matter came before Judge Keahnie-Sanford on January 17, 2003 at 9:00 A.M. for a Final Probate Hearing. Present were: Tom Laughter, Attorney for Petitioner; Lillie Luna; Phil Singer, Former Grazing Representative; Judy Apachee, Legal Counsel for Interveners; Julia Bigg Singer, Ruby Salt and Barbara Greyeyes, Present Grazing Representative. The Court being fully advised in the matter hereby FINDS:
+1. This court has jurisdiction over the parties and subject matter herein.
+2. On January 17, 2003, the Court indicated some documents were submitted by Interveners, therefore the Court asked the Petitioner and Intervener’s Counsel if there are any motions to present. Mr. Laughter and Ms. Apachee indicated no. Ms. Apachee did not present her answer, Notice of Claim, and Motion to Interveners. The Court then instructed Ms. Apachee to submit a written Entry of Appearance and Order, in representation of the interveners.
+3. That both Counsels indicated they agree to the issue of: (1) Lillie Luna being the Administrator, (2) Lillie Luna will be the sole responsible person for all unpaid debts of the late Alfred Luna, and (3) Lillie Luna will be awarded the Life Insurance to Alfred Luna.
+4. That both Counsels indicated they disagree to the issue of the grazing permit of Alfred Luna.
+5. That Lillie Luna, Petitioner, testified that she had one child for Harry Holiday out of wedlock and was never married to him. She later met Alfred Luna in the late i960, where they lived together as husband and wife and had six children. Mr. Alfred Luna is listed as Head of Household, Wife is Lillie G. Luna, and children are: Alfred C. Luna Jr.; Genevieve Luna; Alvis Luna; Lamar Luna; Gilbert T. Luna; and Geneva R. Luna. Attached hereto is Exhibit “A” Family Card - No objection by Intervener’s Legal Counsel.
+6. That Affidavit of Publication with The Navajo Times is attached hereto at Exhibit “B” - No objection by Intervener’s Legal Counsel.
+7. That Petitioner testified she was married to Alfred Luna through a Navajo Common Law Marriage, known as husband and wife in the community and on her children’s birth certificate. Mr. Alfred Luna is listed as father. She filed for Validation of a Marriage and was granted such Order. Attached hereto is Exhibit “C” - No objection by Intervener’s Legal Counsel.
+8. That the late Alfred Luna Sr. died on January T9,2002 at his sheep camp. Attached hereto is Exhibit “D” - No objection by Intervener’s Legal Counsel.
+9. That Alfred Luna, decedent, had a grazing permit number 8-547 in District number 8-r with the brand of D-L-B issued December 07,1967, with thirty units in his name only. No other names are listed on the back of the grazing permit. The grazing permit is in light green with a gold seal and all numbers and name is in original print. The only correction is the census number 8 and the initial on top as J.D. and correction fluid next to the date seventh, thereby the Intervener’s Legal Counsel made an objection to exhibit. The Court ruled to accept Grazing Permit as Exhibit “E” based on no alteration of the name, brand, date issued, district number, permit number, sheep unit which are important.
+10. That Lillie Luna, Petitioner, testified she wants the grazing permit for her children, based on her late husband’s wishes and desire. Further, they were the only ones who kept the grazing permit active all these years and purchase the livestock (sheep and goats). The livestock was used for food and money for their children.
+rr. That Phil Singer, Former Grazing Representative, testified he has done tally counts on the late Alfred Luna’s sheep and goats and has only dealt with him. He testified the grazing permit Exhibit “E” is the proper document.
+12. That Julia Bigg Singer testified she wants her grazing permit returned to her due to the permit being handed down from her maternal grandmother to her mother Mattie Bigg, to herself, Julia Bigg Singer, then to Alfred Luna Sr., late son. She indicated she is uneducated and was unaware that Alfred Luna was the only grazing permit holder. The grazing permit covers her cornfield and customary use area and where was raised. She indicated Lillie Luna, Petitioner, comes from a different District and objects to have the permit transfer to another district. Attached hereto is Exhibit “A” - Grazing permit transfer from Mattie Bigg to Julia Bigg Singer. Objection by Petitioner’s Attorney. Court accepted Exhibit “A”. Exhibit “B” - Grazing permit transferred from Julia Bigg Singer to Alfred Luna. Objection by Petitioner’s Attorney. Court accepted Exhibit “B.”
+13. That Ruby P. Salt, Maternal Aunt to decedent, testified she wants the grazing permit to be returned to her sister, Julia Singer, and the permit has been in the maternal side of the family for years and decedent, Mr Luna, has been the only caretaker of the livestock.
+14. That Barbara Greyeyes, present Grazing Representative, testified decedent Mr. Luna’s grazing permit can only be used in District 8-1 and to do a transfer to another District is difficult, whereby all neighbors of Lillie Luna’s district would have to accept her grazing permit. She indicated the history of a grazing permit is important in dispute of grazing permit. She also indicated in order to keep the permit active, yearly tally counts of livestock should be performed in pursuant to the grazing policies.
+CONCLUSION OF LAW
+The Court having heard the testimonial and documentary evidence pursuant to the Rules of Probate Procedure, and the Navajo Nation Code, 8 N.N.C. §2(B) Determination of Heirs, the Court has no problem with the agreement by the attorney. The Rule of Probate Procedure, Rule 6(3)(a), indicates that the surviving spouse gets everything if all the children of decedent are also children of the surviving spouse. However, in this the disagreement on the grazing permit, the Court will apply our Navajo Common Law. The grazing permit given to a family is special and cared for with Hózhpójíí(Blessing Way) Prayers and instructed by family members to always keep alive and within the family unit out of respect for the forefathers and mothers. Grazing permit is lina - Life, food, clothing, responsibilities, teachings, prayer, etc., for the family. A grazing permit is like the sacred mountain bundle where life exists and should continue to be cared for and remain within the caretaker’s clan. For example, if the permit came from the paternal side, then it should remain with them. Likewise, if it came from the maternal side, then it should remain with them. Only if children exist, then the children should be included and the surviving spouse should hold the permit for the welfare of the children. This is the teaching of the grazing permit holders in the Dine Culture.
+WHEREFORE, based on the foregoing, IT IS HEREBY ORDERED that Lillie Luna shall be awarded the late Alfred Luna’s life insurance.
+IT IS FURTHER ORDERED that Lillie Luna, Administrator, shall be the sole responsible person for any and all remaining funeral expenses not previously paid and all debts not previously paid.
+IT IS FURTHER ORDERED that Lillie Luna shall be awarded all community properties, except for grazing permit #8-547.
+IT IS FURTHER ORDERED that the Grazing Permit #8-547 for District #8-1, 30 sheep unit of the late Alfred Luna shall be divided in half between Lillie Luna and Julia Bigg Singer, natural mother to decedent.
+IT IS FURTHER ORDERED that the late Alfred Luna’s livestock (Sheep and Goats) shall be awarded to the mother, Julia Biggs Singer.
+IT IS FURTHER ORDERED that Lillie Luna shall be the Administrator on her grazing permit for her children. Her children’s names shall be added on the back of the grazing permit, children are: Alfred C. Luna Jr.; Genevieve Luna; Alvis Luna; Lamar Luna; Gilbert T. Luna; and Geneva R. Luna.
+IT IS FURTHER ORDERED that Grazing Permit number 8-547 shall be reissued by the Tuba City Agency, Bureau of Indian Affairs, Natural Resources Office. That grazing permit number 8-547 shall not be sold, altered or otherwise mutilated without the knowledge and consent of all the surviving children and surviving paternal grandmother, Julia Bigg Singer.
