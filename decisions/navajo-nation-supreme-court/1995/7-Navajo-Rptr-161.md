@@ -1,0 +1,60 @@
+---
+court: "Navajo Nation Supreme Court"
+docket: "SC-CV-32-94, SC-CV-36-94"
+decided: "1995-09-22"
+citations: ["7 Navajo Rptr. 161"]
+reporter: "navajo-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before YAZZIE, Chief Justice, AUSTIN and SLOAN* (*by designation), Associate Justices."]
+parties: ["Ralph Bennett Jr., Appellant, v. Navajo Board of Election Supervisors, Appellee, and Roy Begay, Appellant, v. Navajo Board of Election Supervisors, Appellee."]
+source_url: "https://static.case.law/navajo-rptr/7/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 528823
+---
+
+# Bennett v. Navajo Board of Election Supervisors
+
+## Majority (YAZZIE, Chief Justice.)
+
+OPINION
+Opinion delivered by
+YAZZIE, Chief Justice.
+I
+These appeals involve two separate election cases in which the Navajo Board of Election Supervisors (Board) disqualified Ralph Bennett Jr. (Bennett) and Roy Begay (Begay), both candidates for delegate to the Navajo Nation Council. The Board found that they violated the 1990 Navajo Election Code (Election Code) and the 1984 Navajo Ethics in Government Law (Ethics Law) and disqualified them from running in the November 1994 Navajo Nation General Election. We consolidated the cases on appeal.
+A
+On August 20, 1992, the Ethics and Rules Committee (ERC) of the Navajo Nation Council found Bennett in violation of Section 3754(A) (2) of the Ethics Law because he filed his Economic Disclosure Statement late. The ERC fined Bennett $50.00, payable to the Navajo Nation. On May 9,1994, Bennett filed his declaration of candidacy for Navajo Nation Council delegate for the Red Lake/Sawmill Chapters. The declaration form asks whether the candidate had ever been convicted of any offense listed in Section 8.B.4 of the Election Code within the past five years. Bennett checked “no.”
+On June 10, 1994, the Board cleared Bennett to run and he received the most votes in the August 9, 1994 Navajo Nation Primary Election.
+On August 29, 1994, the Board decided not to certify Bennett for the general election after being notified by the ERC that he had failed to timely file his 1992 Economic Disclosure Statement. The Board removed Bennett, without notice and hearing, from the general election ballot for violating the Ethics Law and in turn Section 8.B.4 of the Election Code. Bennett appeals the Board’s decision to this Court.
+B
+Begay was sworn in as a council delegate for the Klagetoh/Wide Ruins Chapter on January 15, 1991. On January 29, 1993, the ERC ruled that Begay had violated Section 3753(1) (1) and (3) of the Ethics Law for receiving unauthorized compensation for official acts.
+The ERC recommended that the Navajo Nation Council publicly reprimand Begay pursuant to 2 N.T.C. § 3757(A) (1) (e), and order him to pay $291.28 in restitution to the Navajo Nation. ERC Resolution No. ERC-93-268. The recommendation was debated by the Navajo Nation Council, but it declined to impose any sanctions against Begay.
+Begay filed his nominating petition on May 10,1994, seeking another term as council delegate for the Klagetoh/Wide Ruins Chapters. On June 17, 1994, the Board certified Begay’s candidacy for Navajo Nation Council delegate.
+On August 20, 1994, the Ethics and Rules Office notified the Board that Begay had failed to disclose to the ERC his violation of Section 3753 of the Ethics Law and Section 8.B.4 of the Election Code. On August 31, 1994, the Board removed Begay, without notice and hearing, from the general election ballot for violating those laws.
+II
+The Board has discretion to apply election laws, but such discretion is limited and this Court can decide whether the Board acted within its discretion. Pioche v. Navajo Board of Election Supervisors, 6 Nav. R. 360, 364 (1991), citing Johnson v. June, 4 Nav. R. 79, 82 (1989). These limitations are imposed by due process and the statutory language of the Election Code and Ethics Law.
+A
+Both Bennett and Begay claim that the Board removed them from the general election ballot without affording them notice and an opportunity to be heard; thus, raising due process claims.
+Begay claims that the Board’s ex parte decision not to certify him was based solely on the ERC’s finding that he violated the Ethics Law. Aside from the Board not giving him notice and an opportunity for hearing, he claims that the ERC has no power to disqualify him from seeking elected office in the first place, because its only job is to recommend sanctions to the Navajo Nation Council.
+Bennett asserts a similar claim that Navajo law requires the Board to notify a candidate of its intent to disqualify him from the general election ballot and then, on request of the candidate, hold a hearing on the issue. He claims that the Board removed him from the ballot without providing the required notice and opportunity for hearing.
+The Board contends that it can disqualify any candidate, as a matter of law, that the ERC finds in violation of the Ethics Law without providing notice and hearing. Both Bennett and Begay were found in violation of the Ethics Law by the ERC and the Board claims that is the only justification it needs to disqualify them.
+Navajo due process requires notice and provides all parties to a dispute an opportunity to be heard. In re removal of Katenay, 6 Nav. R. 81 (1989); Mustache v. Navajo Board of Election Supervisors, 5 Nav. R. 115, 119 (1987). It requires adherence to the principles of justice and fair play, Yazzie v. Jumbo, 5 Nav. R. 75, 76 (1986), and the courts-must interpret it in a way that it protects civil liberties while preserving Navajo culture and self-government. Billie v. Abbott, 6 Nav. R. 66, 74 (1988). The Navajo people have an established custom of notifying all parties involved in a controversy and allowing them, and other interested parties, an opportunity to present and defend their positions. Begay v. Navajo Nation, 6 Nav. R. 20, 24 (1988). This Navajo common law is followed today by the Navajo people in resolving disputes.
+The Board is held to these same standards of due process, because, as we said in Bennett v. Navajo Board of Election Supervisors, 6 Nav. R. 319, 325 (1990), the right to run for public office is a part of political liberty which makes it a due process right. The Board is thus obligated to provide Bennett and Begay with notice of its intent to remove them from the general election ballot and provide them with an opportunity for hearing on the proposed removal.
+The purpose of a hearing before the Board is not to retry issues previously decided by a trial court or an administrative agency such as the ERC, Pioche v. Navajo Board of Election Supervisors, 6 Nav. R. 360 (1991), but to explain to the candidate the precise reason for the proposed action to be taken and to have the candidate respond. This is the nature of traditional Navajo due process and it is carried out with respect. It prevents government agencies, such as the Board, from making important decisions respecting a person’s interest in secrecy. It also promotes respect for the decision itself and the decision-making process.
+The record shows that the Board did not provide these minimal due process protections to Bennett and Begay. The Board’s decision as to both of these candidates must therefore be reversed.
+B
+The final issue is whether the last sentence of Section 8.B.4 is valid and if it can be used to prevent a person who has been found in violation of the Ethics Law from seeking the office of Navajo Nation Council delegate.
+Section 8.B.4 in its entirety reads as follows:
+Must not have been convicted of any misdemeanor involving crimes of deceit, untruthfulness and dishonesty, including but not limited to extortion, embezzlement, bribery, perjury, forgery, fraud, misrepresentation, false pretense, theft, conversion, or misuse of Tribal funds and property, and crimes involving the welfare of children, child abuse, child neglect, aggravated assault and aggravated battery within the last five (5) years. Mast not have been found in violation by a trial court or the Ethics and Rules Committee of the Navajo Nation Council of the Navajo Ethics in government or Election Laws[.] (Italics added).
+Bennett claims that the language quoted in italics above (language at issue) is not part of the 1990 Election Code as adopted by the Navajo Nation Council and therefore cannot bar him from the general election ballot. Begay claims that the Board exceeded its authority when it removed him from the ballot using the language at issue, because only the Navajo Nation Council, pursuant to 2 N.T.C. § 3756(A) (15) (a), has power to remove and bar a sitting council delegate from seeking reelection for five years. The Board’s only argument on the validity of the language at issue is that they “were approved” by the Navajo Nation Council.
+Our review of the official minutes of the Navajo Nation Council session when the Election Code was adopted shows that the language at issue was not included as part of proposed Section 8.B.4.
+The minutes indicate that during the debate, Council Delegate Benjamin Curley requested the delegates who “had the motion” to include “disqualifications [of candidates for president, vice-president and council delegate] based on the candidate’s filing of various information and pursuant to administrative sanctions of the Ethics in Government Law, because there are provisions which would apply in the Ethics in Government Law that could also be used for disqualification purposes.” Minutes of Navajo Nation Council Session dated April 6, 1990 at 33.
+Council Delegate Daniel Tso (the delegate with the motion) responded that he “will accept [the] request to include references to the Ethics in Government Law as part of the qualifications in the President and other elected officials.” Id. at 42.
+Council Delegate Elmer Milford, who seconded the motion, stated, “I’d like to speak to the issue of Section 8, there was a request made pertaining to 7 on page 18, I’d like to ask the moving party that he also include ‘violations of the Ethics and Election Law’ on that section right there. With that I will second the motion.” Id. at 43. The proposed Election Code shows that the only section 7 on page 18 is a section dealing with the qualifications for president and vice-president, not council delegate.
+We find these comments by various delegates unclear as to what was actually proposed. It is clear that no delegate proposed to enact the actual language at issue, but it was nonetheless published by the Board as part of Section 8.B.4. Since the language at issue was neither in the Election Code as proposed to the Navajo Nation Council nor added during the debate on the Code, as a matter of Navajo law, it simply has no validity. The Board cannot use that language to disqualify candidates from elective office.
+The decisions removing Bennett and Begay from the general election ballot are therefore reversed.
+. Ralph Bennett was among twenty four employees of the Navajo Nation Division of Community Development who were found by the ERC to be in noneompliance with the Ethics Law for filing a late Economic Disclosure Statement for 1992. Ethics and Rules Committee Resolution No. ERC-93-346 (August 20, 1992).
+. Section 8.B.4 of the Election Code fixes the qualifications for delegates to the Navajo Nation Council and lists as an offense an Ethics Law violation.
+. Section 3753 (I)(l) and (3) state that:
+(1) No public official or employee shall accept or receive any benefit, income, favor or other form of compensation for performing the official duties of their office or employment, beyond the amount or value which is authorized and received in their official capacity for performing such duties.
+(3) No public official or employee, however, shall accept any benefit, income, favor or other form of compensation for the performance of the duties of any other office or employment not actually performed or for which such official or employee is not otherwise properly authorized or entitled to receive.
