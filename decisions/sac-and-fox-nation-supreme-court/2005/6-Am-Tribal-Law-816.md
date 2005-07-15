@@ -2,7 +2,7 @@
 court: "Sac and Fox Nation Supreme Court"
 docket: "APL-05-01"
 decided: "2005-07-15"
-citations: ["6 Am. Tribal Law 816", "6 Am. Tribal Law 817"]
+citations: ["6 Am. Tribal Law 816"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
