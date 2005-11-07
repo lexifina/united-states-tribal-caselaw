@@ -1,0 +1,50 @@
+---
+court: "Mohegan Gaming Disputes Trial Court"
+docket: "GDTC-AA-05-108-FAM"
+decided: "2005-11-07"
+citations: ["6 Am. Tribal Law 568", "3 G.D.R. 1"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heyward DAVIDSON v. OFFICE OF THE DIRECTOR OF REGULATION."]
+source_url: "https://static.case.law/am-tribal-law/6/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7345569
+cites_cases: ["2004 WL 5660112", "25 U.S.C. § 2701", "5 Am. Tribal Law 355"]
+---
+
+# Davidson v. Office of the Director of Regulation
+
+## Majority (MANFREDI, Judge.)
+
+MEMORANDUM OF DECISION
+MANFREDI, Judge.
+This is an appeal from a decision of the Office of the Director of Regulation (ODR). Oral argument was heard by the Court on October 6, 2005.
+By letter dated December 15, 2004, the Plaintiff was notified that his gaming license was being suspended pursuant to Section 5(10) of Mohegan Tribal Ordinance 95-2, “An Ordinance Establishing the Mohegan Tribal Gaming Authority ”, and that he was barred from the Mohegan Sun Casino and all its facilities pursuant to Section 7(b)(iii) of the Mohegan Tribe— State of Connecticut Gaming Compact.
+The letter further stated that his suitability to remain licensed was:
+“based upon your disorderly conduct on December 14, 2004 that led to your arrest by the Groton Town Police Department, based on a warrant charging you with Larceny in the First Degree by Conversion. The Gaming Commission deems your habits as a course of conduct poses a threat to the effective regulation of gaming or creates or enhances the chances of unfair or illegal methods and/or illegal activities in the conduct of gaming.”
+Mr. Davidson then appealed that decision to the Director of Regulation in a timely fashion. A hearing was held on February 18, 2005 and a decision upholding the license suspension and bar was issued on April 4, 2005.
+This appeal ensued. The record of the hearing below consists of the December 15, 2004 letter; a copy of the Mohegan Tribal Police Report 2004-1036; a copy of Mr. Davidson’s request for hearing; a copy of a portion of C.G.S. 53a-122 re: “conversion of leased property;” and a copy of a Hertz Rental Car “contract” dated January 5, 2005, No. 1022221081. A transcript of the hearing was also included, and pursuant to a Motion made by the Plaintiff, the Court heard additional testimony from Plaintiff and received the following exhibits: Record of Disposition dated 3/23/05—Docket Number: GR04-0280007. Charge Information dated 8/11/05—Docket Number: K10K-CR04-280007-S, Davidson, Heyward G. (showing a dismissal of the charge of “Creating a Public Disturbance.)”
+DISCISSION
+“This appeal is taken pursuant to M.T.0.2002-1B, which is patterned after the Uniform Administrative Appeals Procedure Act, and which provides in part that this “court shall not substitute its judgment for that of the agency [here, the Office of the Director of Regulation (ODR) ] as to the weight of the evidence on questions of fact.” M.T.0.2002-13, Sec. 3(j). This court must affirm the decision of the ODR, unless the court finds that the Defendant’s “findings, inferences, conclusions, or decisions are: (1) in violation of constitutional or statutory provisions; (2) in excess of the statutory authority of the agency; (3) made upon unlawful procedure; (4) affected by other error of law; (5) clearly erroneous in view of the reliable, probative, and substantial evidence on the whole record; or (6) arbitrary or capricious or characterized by abuse of discretion or clearly unwarranted exercise of discretion.”
+“On the other hand, this court shall sustain the Plaintiffs appeal if the court finds that the Plaintiff has been prejudiced because the Defendant’s decision is illegal in one of the ways set forth in (1) through (6) above.” Dzwilewski v. Office of the Director of Regulation, 2 G.D.R. 100, 5 Am. Tribal Law 355, 2004 WL 5660112 (2004).
+Further, in the same case Judge Wilson stated:
+“It is not sufficient for barment that the Defendant find that the Plaintiffs activities are inconsistent with expected behavior oí a licensee or call into questions her integrity; the activity must also have arisen from a criminal history or criminal-type associations which pose a threat to the integrity of the gaming interest of the Tribe.”
+As to the issue of license suspension or revocation, Judge Wilson noted that:
+“Section 9 requires that a licensee have no prior activities, criminal record, reputation, habits and associations which pose a threat to the public interest or the interest of the Tribe or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices in the conduct of gaming. See the IGRA, 25 U.S.C. § 2701(b)(2)(F)(ii)(II). After issuance of a license, the Tribe may suspend and revoke the license if a licensee would not be eligible for an initial IF cense. Sec. 11—4.”
+In this case, the initial letter alleges “disorderly conduct” which led to Plaintiffs arrest and “habits as a course of conduct” posing a threat to effective regulation of gaming, and/or illegal activities in the conduct of gaming were the reasons for the suspension and bar.
+The Hearing Officer’s decision states:
+“6. In an attempt to give Mr. Davidson the benefit of the doubt, I explained that no decision would be made until he provided his court dismissal papers to me on March 9, 2005.
+8. On March 11, 2005, Mr. Davidson failed to provide his court dismiss-, al papers.
+9. Mr. Davidson’s negligence in responding to the request is somewhat' disturbing as he indicated the case;' would be settled. The actual criminal act of Larceny by Conversion is even; more disturbing and does not reflect positively on Mr. Davidson’s suitability to be licensed. This conduct can be detrimental to the integrity of gaming were he to conduct himself in an appropriate manner while on duty.”
+In reviewing the record and evidence presented to this Court it is evident that there is insufficient evidence to make a finding that the Plaintiff engaged in disorderly conduct as that term is defined in C.G.S. § 53a-182 and, therefore, cannot support the bar of Plaintiff from the casino and facilities. See Dzwilewski, supra.
+Additionally, a review of the exhibits presented by the Defendant reveals that although the Plaintiff was arrested for larceny by conversion, that charge was eventually reduced to “creating a public disturbance,” and that charge was ultimately dismissed. Moreover, the elements set forth for Larceny by Conversion were not proven or admitted. Commission Exhibit 5 (a copy of a part of 53a-112) reveals that the elements of conversion of leased property include an agreement requiring the return of the property to a particular place, at a particular time; that the lessor send a written demand to the lessee for return of the property by registered or certified mail; and, that the lessee thereafter fails to return the property within 192 hours (8 days). None of these elements were proved in any way. Therefore, the Hearing Officer’s finding that “The actual criminal act of Larceny by Conversion is even more disturbing” is clearly erroneous.
+The Hearing Officer’s findings also referred to the Plaintiffs “negligence in responding to the request” for court records as “somewhat disturbing” and much is made of this “fact” in Defendant’s brief. This Court is aware of, and agrees with Chief Judge Guernsey’s opinion in Nesbit ODR that permits a.hearing officer to enter a default upon-a finding of actual or constructive notice. However, this Court’s heview of the proceedings in this case reveals a failure of any clear notice to the Plaintiff that a failure to report back to the Court on March 9, 2005 would result in any adverse consequences. Despite Defendant’s contention that the Hearing Officer was clear in this regard, the Court finds at most a request to report back after the March 9th court date, without any indication that this was an order which must be complied with.
+The transcript from the hearing shows the following:
+“MB: Okay, I would like a copy before you leave here today I want to make a copy of your record showing that you paid for it then what I’m going to do is uh, I’m going to wait until I hear from you after your court decision on March 9th.
+HD: Okay.
+MB: And what I would like you to do is uh, you can give me a call and tell me what happened. You can call us here at the Commission, but the important though is; I would like to see if the court gives you any type of paperwork after the court is finished.”
+Nothing in the hearing officer’s request indicates that there was a deadline, an order, or any adverse consequences for failure to report back to him on March 9, 2005.
+Furthermore, as the supplemental evidence revealed, Plaintiff was unable to dispose of the case on March 9, 2005 and returned to Court on March 23, 2005 at which time the case was resolved. Mr. Davidson, on that date returned to the offices of the Defendant and left copies of the court papers with an employee at the front desk, approximately two weeks before the Hearing Officer’s decision. That information was, for reasons not disclosed by the record or in any argument or brief, referred to in the hearing officer’s decision.. • •
+Under the circumstances, the Court finds that the decision below was (1) in violation of constitutional provisions of due process due to the vague and easily misinterpreted “notice” given to: Plaintiff regarding the need to report hack to the hearing officer within any particular time frame, and; (2) affected by other error of law in finding that Plaintiff committed Larceny by Conversion since the essential elements of that offense were glaringly absent from the evidence.
+The Plaintiffs appeal is therefore granted and the Defendant is ordered to reinstate his license and lift the order barring Plaintiff from the Casino and appurtenant facilities.
