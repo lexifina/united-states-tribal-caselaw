@@ -1,0 +1,29 @@
+---
+court: "Fort McDowell Yavapai Nation Supreme Court"
+docket: "CVCL-2005-030"
+decided: "2006-07-12"
+citations: ["6 Am. Tribal Law 147"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: BENDER, Chief Justice, and LUI-FRANK and TSOSIE, Justices."]
+parties: ["Sophia SAYLES, Appellant v. Clayton DELANO, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/6/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7343779
+---
+
+# Sayles v. Delano
+
+## Majority
+
+OPINION
+This is a dispute over financial responsibility for a truck purchased and financed on credit by Sophia Sayles (Sayles) and Clayton J. Delano (Delano). Sayles and Delano were not married, but, as the Tribal Court found, they were “involved in a relationship similar to husband and wife” and “co-habited from time to time, both on and off the reservation.” After the truck was purchased, both parties used it and damaged it. The truck was ultimately repossessed and sold at auction before it was fully paid off This resulted in a deficiency balance of $11,561.30.
+The finance company sought to collect the deficiency balance from Sayles, who sued Delano in Tribal Court to require him to pay the debt. Delano settled the account, for $4,540.55, resulting in the dismissal of Sayles’ claim. Delano, however, filed a counterclaim to Sayles’ suit, in which he sought to recover from Sayles the amount he paid to settle the deficiency balance ($4,540.55), the amount he had paid for accessories on the truck ($654.05), and the total of the payments he had made to the finance company before the truck was repossessed ($5,486.21). That counterclaim is the subject of this appeal. After a trial, the Trial Court awarded Delano the full amount of his claim ($10,681.41). Sayles appeals that award.
+Most of the testimony at trial related to a dispute between Sayles and Delano about who had damaged the truck and who had paid for repairs. The Tribal Court did not resolve those issues. It decided the case instead on the basis of its finding that Sayles was the sole legal owner of the truck, and that Delano was merely a cosigner on the note securing the amount owed by Sayles on the truck. The court stated that it based this finding of Sayles’ sole ownership on “documents submitted by the parties.” The court also observed that Delano’s counterclaim had “asserted that he was a co-signer,” and that Ms. Sayles had “never disputed this claim.” The court held that, as sole owner, Sayles was responsible for all expenses connected with the purchase and repair of the truck. As a non-owner cosigner, Delano was therefore entitled to recover from Sayles the amounts he had paid for accessories on Sayles’ truck, the payments he had made to the finance company for the truck, and the amount he paid to settle the deficiency balance on the truck.
+Sayles moved for reconsideration of the Tribal Court’s decision. She argued that the court’s conclusion that Sayles was the sole owner of the truck was incorrect and inconsistent with documents that showed that she and Delano were co-purchasers and co-owners of the truck. Those documents included the contract of sale, which both Sayles and Delano signed as “Buyer,” the application for a tribal exemption from the state’s vehicle license tax, which both Sayles and Delano signed as “Owner,” and the state Title and Registration Application, which both Sayles and Delano also signed as “Owner.” Sayles also submitted an affidavit signed by the automobile dealership’s office manager that swore that “[f]rom my review of the paperwork in the file, it is apparent that both Ms. Sayles and Mr. Delano were purchasers of the vehicle and both parties ultimately were placed on the title of the vehicle.”
+The Tribal Court denied the motion for reconsideration. It reasoned that, since Sayles “never denied [Delano’s] allegation that he was the co-signer and not a co-owner until the date of trial,” “this allegation is deemed admitted.” In addition, the court stated that the “information presented and filed by the parties” at trial indicated that Sayles, and not Delano, was the owner of the truck. The court declined to consider evidence of Delano’s ownership that Sayles submitted after trial.
+DISCUSSION
+Sayles’ motion for reconsideration should have been granted. The Tribal Court was in error in finding that Sayles did not dispute Delano’s allegation that he was not a co-owner prior to trial. Sayles, in fact, had disputed that claim. In [unoriginal complaint, she alleged that “('lay-ton and I leased a vehicle financed in both my name and his.” There was no need for her to repeat this allegation of co-ownership and co-finaneial responsibility in response to Delano’s counterclaim. This is especially true since Delano’s counterclaim, while alleging that he was “co-signer,” never specifically denied Sayles’ alie-gation that he was also a co-owner with equal financial responsibility. Sayles therefore should not have been deemed to have admitted that Delano was not a co-owner. Moreover, the documents submitted by the parties at trial did not show that Sayles was the owner and Delano was merely a co-signer. On the contrary, the contract of sale, which was attached to Delano’s counterclaim, was clearly signed by both Delano and Sayles as “Buyer.” When Sayles moved for reconsideration of this issue, submitting additional documentation of co-ownership, the court should have recognized its error in holding that Sayles was the sole owner of the truck.
+CONCLUSION
+The judgment below is VACATED and the case remanded to the Tribal Court for reconsideration in light of the fact that Sayles and Delano were co-owners of the truck. How that co-ownership affects the financial obligations of the parties to each other is an issue for the Tribal Court on remand.
