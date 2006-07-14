@@ -1,0 +1,35 @@
+---
+court: "Navajo Nation Supreme Court"
+docket: "SC-CV-21-06"
+decided: "2006-07-14"
+citations: ["6 Am. Tribal Law 764"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before YAZZIE, Chief Justice, and FERGUSON, Associate Justice."]
+parties: ["Ann THOMPSON, Plaintiff-Appellee, v. Larry Kee YAZZIE, Defendant-Appellant."]
+source_url: "https://static.case.law/am-tribal-law/6/cases/0764-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7347046
+---
+
+# Thompson v. Yazzie
+
+## Majority
+
+OPINION
+This matter comes before the Court on a Motion for Reconsideration of the Court’s dismissal of the appeal because Appellant did not submit a transcript within the required time. The Court grants the motion, and reinstates the appeal. The Court issues this opinion to clarify the rales on transcripts.
+I
+The relevant facts are as follows. Appellant Yazzie (Yazzie) appealed a judgment of the Tuba City District Court (District Court) awarding Appellee Thompson (Thompson) restitution for fees paid to Yazzie to represent her. Within the thirty day time period set out in Rule 9(a)(2) of the Navajo Rules of Civil Appellate Procedure (NRCAP) to file a transcript of the district court proceedings, Yazzie filed a motion for extension of time to file the transcript directly with the Supreme Court. The Court denied the motion, indicating that NRCAP 9(a)(2) required an appellant to first file an extension request wdth the district court. Yazzie filed his extension request with the District Court three days before the thirty day time period expired, but did not inform the Supreme Court of the filing. The District Court did not rule on the motion, and the time expired. Yazzie submitted a transcript with the District Court on June 9, 2006, but did not inform this Court. As no transcript had been filed, and no extension had been granted, this Court dismissed his appeal pursuant to NRCAP 10(c) on June 23, 2006. Yazzie filed the current motion pursuant to NRCAP 19, arguing that he should not be penalized for the failure of the District Court to respond to his motion for extension.
+II
+The issue in this case is whether an appellant is required to file a request for an extension of time to file a transcript with the Supreme Court when the lower tribunal does not rale on his extension request within the thirty day time period set out in Rule 9(a)(2) of the Navajo Rules of Civil Appellate Procedure.
+III
+Rule 9 is one of the most poorly understood rules in our Rules of Civil Appellate Procedure. Pursuant to that rule, the appellant has the responsibility to file a written transcript of the proceedings in the lower court or administrative tribunal within thirty days of the date the appellant filed the notice of appeal. NRCAP 9(a)(2); Legislative Branch/Community Services Program v. Hatathlie, 7 Nav. R. 259, 260 (Nav.Sup.Ct.1997). If a transcript cannot be prepared within that time period, the rule allows for an extension if the appellant requests one from the lower tribunal. NRCAP 9(a)(2). The lower tribunal may extend the time to forty-five days from the filing of the notice of appeal, but if more time is needed, the appellant can request an extension directly from this Court. Id. Despite these clear mandates, this Court regularly dismisses cases for appellants’ failure to minimally comply with their responsibility.
+A transcript serves several important functions for the Court. It sets out the evidence presented to the lower court or tribunal, allowing this Court to review whether the findings of fact are supported by the evidence. It also shows when and why evidence or motions were accepted or denied, and, ideally, the reasons for those decisions, allowing the Court to review whether the lower court abused its discretion. A transcript is required in all cases, except in circumstances where an appellant deems no part of the transcript to be necessary to decide the appeal, NRCAP 9(b)(1), when a transcript cannot be made due to the unavailability or inaudibility of the recording, in which case the appellant files a narrative statement, 9(c), or when the parties submit an agreed statement describing the evidence presented in the lower tribunal, 9(d). If a transcript is required but not filed, NRCAP 10(c) requires the Court to dismiss the appeal.
+The Court dismissed this case because the thirty day time limit to file a transcript expired, and Yazzie did not receive an extension. Usually when the Court dismisses a case for the lack of transcript, the time limit has expired without the appellant bothering to file a proper extension request with the lower tribunal. This case concerns an issue not directly dealt with in Rule 9: what happens when an extension request is filed, but the lower tribunal does not grant or deny the extension before the expiration of the thirty day time period. As Rule 9 does not anticipate this possibility, the Court must fill in the gap.
+The Court holds that failure of a lower tribunal to respond to a transcript extension request will be treated as an automatic grant of a fifteen day extension, and the Court will not dismiss an appeal if the transcript is filed within that extended time period. If the appellant has complied with his or her responsibility to seek an extension within the original time period, but the lower tribunal does not act, they» Court will not. further require an extension ⅛® request from the Supreme Court. They®; Court will treat the inaction as a grant of),» the extension, and the appellant then has forty-five days from the filing of the notice of appeal to file the transcript. However, a prudent appellant should file a notice with this Court that he or she filed an extension, but no action was taken, and therefore he or she will file the transcript within the extension period. If the Court does not know that the extension is granted, it has no option under NRCAP 10(c) but to dismiss the case. While the appellant can seek a reconsideration of the dismissal, both time and costs are saved by giving notice before the Court dismisses the case.
+IV
+Rased on the above, we GRANT the Motion for Reconsideration. The appeal is REINSTATED. The Clerk of the Supreme Court shall issue a Rule 10(b) notice immediately to begin briefing.
+. NRCAP 9(a)(2) refers to the filing of the “record" within thirty days of the filing of the notice of appeal. A transcript is part of the record. See NRCAP 9(a)(1) (“The papers making up the record on the appeal ... ] include] a reporter's transcript”).
+. Rule 9 stales that any argument that a find-.))® ing of fact is not supported by or is contri irv to the evidence must be accompanied by a transcript of that part of the proceedings rele- ■ vant to that argument, . )¾⅜
+. It is equally important that the appellant notify this Court if an extension has been affirmatively granted by the lower tribunal. Again, if the Court does not know that the time to file the transcript has been extended, it is obliged to dismiss the case.
