@@ -2,7 +2,7 @@
 court: "Ho-Chunk Nation Trial Court"
 docket: "CV 00-105"
 decided: "2007-06-14"
-citations: ["7 Am. Tribal Law 144", "7 Am. Tribal Law 159"]
+citations: ["7 Am. Tribal Law 144"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
