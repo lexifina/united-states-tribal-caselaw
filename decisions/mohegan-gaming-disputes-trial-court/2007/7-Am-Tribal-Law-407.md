@@ -2,7 +2,7 @@
 court: "Mohegan Gaming Disputes Trial Court"
 docket: "GDTC-T-05-105-TBW"
 decided: "2007-08-02"
-citations: ["7 Am. Tribal Law 407", "3 G.D.R. 61", "7 Am. Tribal Law 398"]
+citations: ["7 Am. Tribal Law 407", "3 G.D.R. 61"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joseph LUBRANO, et al v. BRENNAN BEER GORMAN/ARCHITECTS, LLP, et al."
 source_url: "https://static.case.law/am-tribal-law/7/cases/0407-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7345056
-cites_cases: ["1 Am. Tribal Law 380", "1 Am. Tribal Law 385", "1997 WL 34678573", "1998 WL 914266", "2000 WL 1056676", "2007 WL 5969360", "2007 WL 5969366", "23 Conn. L. Rptr. 562", "276 Conn. 1", "281 Conn. 768", "480 U.S. 9", "7 Am. Tribal Law 392", "7 Am. Tribal Law 398", "882 A.2d 597", "918 A.2d 249"]
+cites_cases: ["1 Am. Tribal Law 380", "1 Am. Tribal Law 385", "1997 WL 34678573", "1998 WL 914266", "2000 WL 1056676", "2007 WL 5969360", "2007 WL 5969366", "23 Conn. L. Rptr. 562", "276 Conn. 1", "480 U.S. 9", "7 Am. Tribal Law 392", "7 Am. Tribal Law 398", "882 A.2d 597"]
 ---
 
 # Lubrano v. Brennan Beer Gorman/Architects, LLP
