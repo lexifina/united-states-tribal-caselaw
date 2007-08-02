@@ -2,7 +2,7 @@
 court: "Mohegan Gaming Disputes Trial Court"
 docket: "GDTC-T-04-116-TBW"
 decided: "2007-08-02"
-citations: ["7 Am. Tribal Law 426", "3 G.D.R. 84", "7 Am. Tribal Law 422", "3 G.D.R. 78"]
+citations: ["7 Am. Tribal Law 426", "3 G.D.R. 84"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeffrey MURPHY v. MOHEGAN TRIBAL GAMING AUTHORITY, et al."]
 source_url: "https://static.case.law/am-tribal-law/7/cases/0426-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7345093
-cites_cases: ["10 Conn. L. Rptr. 281", "110 Conn. 184", "111 A.2d 545", "127 Conn. 85", "142 Conn. 95", "147 A. 762", "15 A.2d 83", "15 Conn.App. 392", "159 Conn. 91", "164 Conn. 194", "1993 WL 451449", "2003 WL 25795201", "2003 WL 25795206", "2004 WL 335202", "2004 WL 5660109", "2005 WL 6239000", "2006 WL 6181099", "207 Conn. 518", "209 Conn. 497", "21 A. 924", "220 Conn. 285", "232 Conn. 242", "241 Conn. 399", "242 Conn. 375", "250 Conn. 14", "262 Conn. 312", "267 A.2d 452", "273 Conn. 108", "319 A.2d 403", "4 Am. Tribal Law 562", "4 Am. Tribal Law 577", "5 Am. Tribal Law 295", "542 A.2d 711", "546 A.2d 284", "551 A.2d 1243", "59 Conn. 261", "596 A.2d 414", "6 Am. Tribal Law 531", "6 Am. Tribal Law 580", "654 A.2d 748", "696 A.2d 332", "698 A.2d 859", "734 A.2d 85", "813 A.2d 1003", "869 A.2d 179"]
+cites_cases: ["110 Conn. 184", "111 A.2d 545", "127 Conn. 85", "142 Conn. 95", "147 A. 762", "15 A.2d 83", "15 Conn.App. 392", "164 Conn. 194", "2003 WL 25795201", "2004 WL 5660109", "2005 WL 6239000", "209 Conn. 497", "21 A. 924", "220 Conn. 285", "232 Conn. 242", "241 Conn. 399", "250 Conn. 14", "273 Conn. 108", "319 A.2d 403", "4 Am. Tribal Law 577", "5 Am. Tribal Law 295", "546 A.2d 284", "551 A.2d 1243", "59 Conn. 261", "596 A.2d 414", "6 Am. Tribal Law 531", "654 A.2d 748", "696 A.2d 332", "734 A.2d 85", "869 A.2d 179"]
 ---
 
 # Murphy v. Mohegan Tribal Gaming Authority
