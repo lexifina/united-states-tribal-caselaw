@@ -2,7 +2,7 @@
 court: "Mohegan Gaming Disputes Trial Court"
 docket: "GDTC-T-04-116-TBW"
 decided: "2007-09-14"
-citations: ["7 Am. Tribal Law 442", "3 G.D.R. 92", "7 Am. Tribal Law 441", "3 G.D.R. 95"]
+citations: ["7 Am. Tribal Law 442", "3 G.D.R. 92"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeffrey MURPHY v. MOHEGAN TRIBAL GAMING AUTHORITY, et al."]
 source_url: "https://static.case.law/am-tribal-law/7/cases/0442-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7345137
-cites_cases: ["1999 WL 566930", "2006 WL 6181105", "25 Conn. L. Rptr. 160", "6 Am. Tribal Law 577"]
+cites_cases: ["1999 WL 566930", "25 Conn. L. Rptr. 160"]
 ---
 
 # Murphy v. Mohegan Tribal Gaming Authority
