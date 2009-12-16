@@ -1,0 +1,48 @@
+---
+court: "Colville Tribal Court of Appeals"
+docket: "AP09-001"
+decided: "2009-12-16"
+citations: ["9 Am. Tribal Law 119", "5 CTCR 25; 10 CCAR 23"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Chief Justice ANITA DUPRIS, Justice DAVID C. BONGA, and Justice CONRAD PASCAL."]
+parties: ["Christopher LEZARD, Appellant, v. Christina DECONTO, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/9/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7341218
+---
+
+# Lezard v. Deconto
+
+## Majority (DUPRIS, C.J.)
+
+SUMMARY
+DUPRIS, C.J.
+On January 5, 2009 Appellant filed a Petition for Custody and Support for the minor C.L.L. (hereinafter the minor) in the Trial Court. On January 5, 2009 Appellant also filed for, and was granted, temporary custody of the minor. Appel-lee filed her own Petition for Custody and Support for the minor in the Trial Court on January 6, 2009. A Show Cause hearing on the issue of temporary orders was set for January 20, 2009.
+On January 16, 2009 Appellee filed a Motion to Dismiss, which was mailed to Appellant. The several affidavits of non-party witnesses’ statements to support Ap-pellee’s Motion to Dismiss were never served on Appellant. Appellee submitted them at the January 20, 2009 Show Cause Hearing. The Court order entered on January 5, 2009 granted temporary custody to Appellant; a temporary restraining order against Appellee; and set a Show Cause Hearing in order to allow Appellee “... to answer to the requests as stated in the motion and affidavit on file herein.” The notice portion of the January 5, 2009 Order did not inform either party that a Motion to Dismiss the underlying cause of action would be considered at the hearing on January 20, 2009.
+On January 20, 2009 the Trial Court went beyond the Show Cause hearing and ruled on Appellee’s Motion and Deelaration to Dismiss. The Judge dismissed the underlying cause of action with prejudice; she considered the Motion to Dismiss and the submitted affidavits in her rulings. Appellant appealed, arguing violations of his due process rights. We granted appeal. For reasons stated below we find Appellant’s procedural due process rights have been violated, and the judgment entered on January 20, 2009 should be vacated, and this matter remanded.
+ISSUE
+Were Appellant’s rights to procedural due process violated when the Trial Court went beyond the scope of the Show Cause Hearing and granted Ap-pellee’s Motion to Dismiss?
+STANDARD OF REVIEW
+The issue is a question of law which we review de novo. Colville Confederated Tribes v. Naff, 2 CCAR 50, 2 CTCR 08, 22 ILR 6032 (1995). Where there are written findings of fact we give deference to the Trial Court, as a general rule. In this case the Trial Court Judge entered written findings of fact and conclusions of law on January 29, 2009, a full week after the time the appeal was filed in our Court. The written findings are not specific findings, i.e. reasoning by the Judge of what are the facts found in the case after a review of all of the evidence presented. Zavala v. Milstead, and Joseph, 10 CCAR 14, 5 CTCR 22, — ILR -, — Am. Tribal Law-(2009). The written findings are more in the nature of an extensive judicial summary of the pleadings filed and the evidence and arguments presented in this case. For this reason we review the oral record de novo.
+DISCUSSION
+Basic tenets of procedural due process include adequate notice, the opportunity to be heard and present evidence on one’s own behalf. The time and manner of the hearing must be meaningful. R.L. and B.J., Minors v. CCT Child and Family Services, 6 CCAR 1, 3, 3 CTCR 39, 28 ILR 2863, — Am. Tribal Law - (2001).
+In this case, both parties filed separate petitions for custody and support for their son, a minor child. Appellant sought, and was granted, temporary orders ex parte regarding the custody of the minor as well as restraining Appellee from removing the minor pending the Show Cause hearing set on January 20, 2009.
+The notice given to Appellant regarding the January 20, 2009 hearing was that the hearing would be regarding his requests for temporary custody and restraints against Appellee until a full hearing on his Petition for Custody. Appellant never received adequate notice that Appel-lee’s Motion to Dismiss would be considered at the January 20, 2009 hearing. The facts show he did not receive a copy of the Motion to Dismiss in time to adequately prepare his statement and evidence on his own behalf. The Motion to Dismiss was filed only four (4) days before the hearing, and was mailed to Appellant.
+There are very few written procedural rules for litigants to follow at the Trial Court. Regarding motions, however, the CCT Law and Order Code (CTLOC) gives some guidance which, we presume is based on procedural due process. CTLOC § 1-2-10 states motions shall be filed and served on the opposing party “... no later than five (5) days prior to the time specified for the hearing-” (emphasis added). The three (3) exceptions to the five-day rule are: (1) if court rules establish a different time; or (2) if the Court orders a different time frame; or (3) if good cause is shown. Id.
+The Trial Court did not follow CTLOC § 1-2-10. First, Appellee’s motion was not served nor filed at least five (5) days before the January 20, 2009 hearing. Second, there is nothing in the record showing Appellant had notice the January 20, 2009 hearing was going to include addressing Appellee’s motion. Third, there is nothing in the findings of fact which shows any of the three (3) exceptions existed on January 20, 2009.
+Parties must have reasonable notice prior to any substantive hearing to allow the parties time to prepare their respective cases. Gallaher v. Foster, et al., 6 CCAR 48, 52, 3 CTCR 50, 29 ILR 6079, — Am. Tribal Law - (07-23-2002). The Tribal Civil Rights Ordinance requires the Tribes to meet due process requirements. CTC 56.02(h). We have held over the years that due process is required and that notice and hearing are fundamental to due process. In Re the Welfare of J.A.M., et al, 3 CCAR 6, 7, 3 CTCR 14 (08-07-1995).
+When a person is not given adequate notice of what is to be considered in a hearing, all the other procedural rights are impacted. He does not have adequate time to prepare for the hearing, and to submit evidence on his own behalf. Even if the end result appears clear to the judge, the parties have a right to present their evidence in a meaningful manner. The judge is the gatekeeper of due process. It is the Court’s responsibility to ensure adequate notice is provided to every litigant, and to allow everyone who appears in Court to have his say, in his own way.
+CONCLUSION
+There is no issue of jurisdiction in this case. Both parties submitted to the jurisdiction of this Court in their actions at the Trial Court. Contrary to Appellant’s arguments in his brief, the Trial Court did not rule there was a lack of jurisdiction. The Trial Court held this was not a convenient forum, considering the facts in this case, ie., the parties had more ties to Ilwaeo, Washington than to the Colville Reservation. This may true.
+The Trial Court ruled prematurely, however. Appellant did not have his full day in Court. Even though he agreed some of the information in Appellee’s affidavits may be true, he was not given an adequate time to review the motion to dismiss nor the affidavits. The only notice given to the parties about the January 20, 2009 hearing was regarding whether or not Appellant’s temporary custody and restraining orders should continue until the final hearing on the Petition for Custody was heard. At the minimum the Trial Court should have set the Motion to Dismiss for a separate hearing and given Appellant an opportunity to respond. The Judge could have denied the request for temporary custody and returned the minor to his mother without dismissing the matter before Appellant had an opportunity to present his side on the issue of inconvenient forum. For these reasons the Order Dismissing With Prejudice should be vacated and the matter remanded.
+Finally, as a request for relief, Appellant asks that a new Judge be appointed to hear the matter. We do not assign trial judges to cases. If a party is not satisfied with the judge assigned, then he must file a Motion and Affidavit of Prejudice with the Trial Court. If the Motion is denied, he may file a limited appeal. Rulings on requests to remove a judge from a case can be immediately appealed to the Court of Appeals without having to wait for a hearing on the other motions or petitions filed in the case. In the instant case, Appellant requested the removal of the judge directly from the Court of Appeals and not the Trial Court. The request is not ripe for review.
+Based on the foregoing, now, therefore
+It is ORDERED:
+1) The Order entered January 20, 2009 dismissing this matter with prejudice is VACATED.
+2) This matter is REMANDED for a new hearing consistent with the rulings herein.
+3) Appellant’s request for a new judge is not properly before us at this time and is DENIED without prejudice.
+. The name of the minor is not relevant to our rulings, so it will not be used in the Opinion.
+. Appellee also asked for temporary orders on January 6, 2009, but there is no record that a trial judge ruled on her requests.
+.Appellee did not file a Brief in this case as directed; it was due July 17, 2009. All objections to the issues we are considering are deemed waived by Appellee by her non-response. See COACR 13(e)(4).
