@@ -1,0 +1,47 @@
+---
+court: "Colville Tribal Court of Appeals"
+docket: "AP10-013"
+decided: "2011-02-08"
+citations: ["9 Am. Tribal Law 258", "5 CTCR 29; 10 CCAR 37"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Chief Justice ANITA DUPRIS, Justice GARY F. BASS, and Justice EARL L. McGEOGHEGAN."]
+parties: ["Kerry L. GREEN Sr., Appellant, v. Kelly L. GREEN/Gossett, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/9/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7341988
+---
+
+# Green v. Green
+
+## Majority (DUPRIS, C.J.)
+
+DUPRIS, C.J.
+SUMMARY
+On August 17, 2010 Kelly L. Green, Appellee herein, filed in the Colville Tribal Court for a dissolution of her marriage to Kerry L. Green, Sr., Appellant herein. On her Petition for Dissolution of Marriage Appellee indicated neither she nor Appellant were members of the Colville Tribes, but that she was a descendant. The Trial Judge heard the Petition on November 2, 2010, and entered an “Order From Dissolution Hearing,” (Order) signed November 4, 2010. The Order included, inter alia, maintenance payments from Appellant to Appellee for six (6) months, starting in December, 2010. The Order did not contain any findings of fact or conclusions of law, and did not address whether the Trial Court had jurisdiction to hear the matter. Appellant filed a timely appeal on the issue of maintenance, alleging Appellee had already remarried,
+This Court finds that a requisite to subject matter jurisdiction is that one of the parties to a dissolution in the Colville Tribal Court must be a member of the Colville Tribes. Subject matter jurisdiction cannot be consented to or waived by the parties. Based on the reasoning below we find the Order From Dissolution Hearing dated November 4, 2010 should be vacated and the matter remanded for a dismissal for lack of jurisdiction.
+STANDARD OF REVIEW
+The issue of subject matter jurisdiction is a question of law, subject to a review de novo. We review findings of fact under the clearly erroneous standard, and errors of law de novo. Colville Confederated Tribes v. Naff, 2 CCAR 50, 2 CTCR 08, 22 ILR 6032 (1995); Wiley, et al v. Colville Confederated Tribes, 2 CCAR 60, 2 CTCR 09, 22 ILR 6059 (1995); Palmer v. Millard, et al, 3 CCAR 27, 2 CTCR 14, 23 ILR 6094 (1996) (Because the Tribal Court dismissed the case below as a matter of law, we review the matter de novo.); Poutey v. CCT, 4 CCAR 38, 2 CTCR 39, 25 ILR 6024, (1997) (The Appellate Court engages in de novo review of assignments or errors which involve issues of law); In Re The Welfare of R.S.P. V., 4 CCAR 68, 3 CTCR 07, 26 ILR 6039 (1998).
+Both the Trial Court and this Court should first always assess each case for personal and subject matter jurisdiction. Personal jurisdiction can be consented to or waived by a party at any time. Whereas subject matter jurisdiction cannot. A challenge to subject matter jurisdiction can be made at any time. Subject matter jurisdiction goes to the heart of the powers of a court to decide a case. Seymour v. CCT, 6 CCAR 5, 3 CTCR 40 (2001). It is within the inherent powers of this Court to review subject matter jurisdiction sua sponte.
+ISSUE
+Did the Trial Court have subject matter jurisdiction over a dissolution of a marriage when neither party is an enrolled member of the Tribes?
+DISCUSSION
+Dissolutions, also referred to as divorces, are statutory in nature. That is, a marriage is recognized as a contract between the marrying couple and the State or Tribe under whose authority the marriage is granted. As such, the statute governing the marriage contracts usually governs the dissolutions of the contract. The Tribes’ Domestic Relations Code, Chapter 5, provides for the statutory authority for the Trial Court to perform marriages and to grant dissolutions of marriage. The Tribes’ Domestic Relations Code does not restrict dissolutions to only marriages performed under the Code; it allows for dissolutions of any marriage recognized in any jurisdiction. CTC § 5-1-101. It just requires one of the parties to be an enrolled member of the Tribes. Id. This restriction goes to subject matter jurisdiction.
+Our Constitution provides that it is the Colville Business Council’s responsibility to set out the jurisdiction of the Courts of the Tribes by statute. Constitution of the Confederated Tribes of the Colville Reservation (Constitution), Article VIII, Section 1. It further provides that is the duty of the Courts of the Tribes to interpret and enforce the laws as adopted by the Tribes. Id. Unless we were to find that the requirement that one party to a dissolution has to be an enrolled tribal member violated the Constitution or Laws of the Tribes, we are bound to enforce this requirement. Appellee asserts that the requirement of membership in the Tribes before a dissolution can be granted violates her due process and equal protection rights. We don’t agree.
+At the Initial Hearing on January 21, 2011, Appellee argued that reading the Code as a whole, and in particular the Domestic Relations Chapter, the Tribes allows non-Indians, including descendants to file other civil family matter cases in the Tribal Court. She gave as examples the custody sections, guardianships, paternity actions, and child support. She asserts that to exclude this class of litigants, i.e. non-Indians and descendants, from dis-solutions violates their rights to due process and equal protection, by denying them access to the Tribal Court.
+We have long upheld the rights of litigants to equal protection and due process in our Courts, as guaranteed by our Tribal Civil Rights Act, CTC § l-5-2(h). See, Gallaher v. Foster, 6 CCAR 48, 3 CCTR 50 (2002); R.L. and B.J. v. CCT CFS, 6 CCAR 1, 3 CCTR 39 (2001); and Finley v. CTSC, 8 CCAR 38, 4 CCTR 25 (2006). We cannot find a violation of either in the circumstances of this case. It is true the Tribes has restricted who may file for dissolutions in the Tribal Court, but such restriction does not offend due process or equal protection. The tribal legislatures have made a decision to limit the sovereignty it wishes to exercise over non-tribal members, no matter who their families are. It is up to the tribal Council to change this law, not the Courts.
+The statute is clear and unambiguous on its face. Statutory construction begins by looking at the statute’s language, giving words their plain meaning, and proceeding to extrinsic interpretive aids only when the statute contains unclear or ambiguous language. CTC § 1—1—7(b) (providing that words given plain and generally understood meaning). The Constitutional responsibility of the tribal legislatures to decide what jurisdiction it wishes the Tribes to exercise is clear and unambiguous. See Constitution, id.
+In the matters of domestic relations, the Tribes has restricted its subject matter jurisdiction over marriages, both in granting them and dissolving or annuEing them, to only cases in which one party is a member of the Tribes. CTC § 5—1—32(b) (one of the persons getting married under the Code must be an enrolled Colville tribal member); and CTC § 5-1-101 (one of the parties to a dissolution or annulment action must be an enrolled Colville tribal member). There was no subject matter jurisdiction over the dissolution in this case. We so hold.
+CONCLUSION
+In the recent past we have had to examine Trial Court orders for irregularities brought about because the Judge did not appear to know or understand basic tenets of the law. See, e.g. CCT v. Boyd, 10 CCAR 08, 5 CTCR 21 (2009) (Judge failed to follow statutory laws regarding criminal cases); In Re the Name Change of Sweowat, 10 CCAR 01, 5 CTCR 19 (2009) (Trial Court failed to apply tenets of personal jurisdiction); and Edwards v. Bercier, 10 CCAR 18, 5 CTCR 23 (2009) (irregular method of conducting hearing).
+It is our Constitutional duty to review Trial Court hearings and orders for such irregularities. In this case, however, the consequences go beyond what we are able to correct at this level. Knowledge of when the Court has both subject matter and personal jurisdiction is basic to every case before the Court. Jurisdiction should be the first issue addressed in every hearing. There are no findings of fact or conclusions of law on the issue of jurisdiction. If the Trial Court Judge had reviewed the law and the Petition, she would have known at the outset of the case that the Trial Court did not have subject matter jurisdiction.
+The unfortunate consequence in this case is that one party, relying on the Order of the Trial Court, entered into another marriage. We cannot fix this; we can only recognize that the error lies solely with the Judge who did not follow the law in granting the dissolution.
+We hold the Trial Court did not have subject matter jurisdiction to grant a dissolution in this ease, and the Order dated November 4, 2010.
+Based on the foregoing, now, therefore
+It is ORDERED that the Trial Court’s Order dated November 4, 2010 is VACATED and this matter is REMANDED to the Trial Court for an Order Dismissing the case for lack of subject matter jurisdiction.
+. CTC §5-1-120.
+. CTC § 5-1-160
+. CTC §5-1-205
+. CTC § 5-1-240 et sea
+. It is further noted that there are no findings or orders regarding the children of the marriage, no orders regarding the parties’ property and debts, and no Decree issued as required by the statute, too. CTC § 5-1-105.
