@@ -2,7 +2,7 @@
 court: "Mohegan Gaming Disputes Trial Court"
 docket: "GDTC-T-10-104-FOE"
 decided: "2012-06-12"
-citations: ["12 Am. Tribal Law 228", "12 Am. Tribal Law 394"]
+citations: ["12 Am. Tribal Law 228"]
 reporter: "am-tribal-law"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kathleen Hurley DURANTE, Administratrix of the Estate of Elizabeth Du
 source_url: "https://static.case.law/am-tribal-law/12/cases/0228-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6767012
-cites_cases: ["10 Am. Tribal Law 237", "118 Conn. 233", "127 Conn. 415", "134 Conn. 572", "136 Conn. 191", "161 Conn. 191", "17 A.2d 525", "171 A. 664", "1998 WL 70646", "1999 WL 557978", "2000 WL 1007351", "2002 WL 172636", "2003 WL 22234615", "2005 WL 2981785", "2009 WL 3366321", "2009 WL 3645717", "2010 WL 5188490", "2010 WL 5645886", "2011 WL 1734440", "2011 WL 4908860", "208 Conn. 525", "221 Conn. 530", "231 Conn. 381", "233 Conn. 474", "237 Conn. 364", "240 Conn. 576", "241 Conn. 282", "245 Conn. 710", "250 Conn. 674", "263 Conn. 424", "280 Conn. 919", "35 Conn. L. Rptr. 492", "546 A.2d 216", "59 A.2d 293", "606 A.2d 684", "64 Conn.App. 9", "650 A.2d 153", "659 A.2d 1188", "678 A.2d 462", "693 A.2d 293", "695 A.2d 1051", "70 A,2d 123", "70 A.2d 123", "714 A.2d 1209", "741 A.2d 873", "779 A.2d 198", "820 A.2d 258", "901 A.2d 1258", "908 A2d 545", "96 Conn.App. 741"]
+cites_cases: ["118 Conn. 233", "127 Conn. 415", "134 Conn. 572", "136 Conn. 191", "161 Conn. 191", "17 A.2d 525", "171 A. 664", "1998 WL 70646", "2000 WL 1007351", "2005 WL 2981785", "2009 WL 3645717", "2010 WL 5188490", "2010 WL 5645886", "2011 WL 1734440", "2011 WL 4908860", "208 Conn. 525", "221 Conn. 530", "231 Conn. 381", "233 Conn. 474", "237 Conn. 364", "240 Conn. 576", "241 Conn. 282", "245 Conn. 710", "250 Conn. 674", "263 Conn. 424", "280 Conn. 919", "546 A.2d 216", "59 A.2d 293", "606 A.2d 684", "64 Conn.App. 9", "650 A.2d 153", "659 A.2d 1188", "678 A.2d 462", "693 A.2d 293", "695 A.2d 1051", "70 A,2d 123", "70 A.2d 123", "714 A.2d 1209", "741 A.2d 873", "779 A.2d 198", "820 A.2d 258", "901 A.2d 1258", "908 A2d 545", "96 Conn.App. 741"]
 ---
 
 # Durante v. Mohegan Tribal Gaming Authority
