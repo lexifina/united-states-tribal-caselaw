@@ -1,0 +1,40 @@
+---
+court: "Mohegan Gaming Disputes Trial Court"
+docket: "GDTC-CV-13-103-PMG"
+decided: "2013-10-01"
+citations: ["12 Am. Tribal Law 269"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOHEGAN TRIBE OF INDIANS OF CONNECTICUT v. BIG BUBBA’S BBQ, LLC."]
+source_url: "https://static.case.law/am-tribal-law/12/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6767208
+cites_cases: ["11 Conn. 240", "14 Conn.Supp. 271", "182 Conn. 138", "1946 WL 722", "28 Conn. 527", "30 Conn.App. 274", "438 A.2d 27", "620 A.2d 165"]
+---
+
+# Mohegan Tribe of Indians of Connecticut v. Big Bubba's BBQ, LLC
+
+## Majority (GUERNSEY, C.J.)
+
+MEMORANDUM OF DECISION RE: PLAINTIFF’S MOTION TO STRIKE DEFENSES
+GUERNSEY, C.J.
+In this action brought to collect sales taxes, interest and penalties allegedly due under the Mohegan Tribal Tax Code, MTC § 7-221 et seq., the Defendant has filed six special defenses, of which the Plaintiff has moved to strike five. The challenged special defenses may be generalized as follows: First, that the Defendant was exempt from this tax under the terms of its lease with The Mohegan Tribal Gaming Authority (MTGA); Second, that the Tribal Tax Office retroactively changed the methodology for determining the tax due; Third, that the amount of tax claimed due was clearly erroneous and based on extrapolation; Fourth, that previous audits had never found or suggested that the prior methodology was improper (essentially arguing estoppel), and Fifth, that the Tribe was estopped from claiming (or collecting) the taxes inasmuch as the Tribe supplied the methodology and then changed it. Although the Defendant did not file a memorandum in opposition, the Court exercised its discretion under MRCP § 15(d) to consider and rule on the motion in the absence of such memorandum.
+Properly conceding that “fi]n ruling on a motion to strike special defenses, a trial court must take the facts to be those alleged in the special defenses and ... construe the defenses in the manner most favorable to sustaining their legal sufficiency ... ” , the Plaintiff argues that the defenses rely on facts outside the pleadings that are not consistent with the allegations of the complaint. Of particular note, the Plaintiff challenges any reference to the lease between the MTGA and the Defendant, arguing it has no relevance inasmuch as the MTGA is not a party to this action, an interesting position considering that the Plaintiff utilized the designation of the person to whom notices were to be sent (as amended) under the lease in order to serve its summons and complaint. Arguably, if the lease were irrelevant, service of process on the person designated for lease-related notices would constitute insufficient service of process in an action to collect sales taxes.
+Although at argument mention was made of the legal sufficiency of certain of the special defenses, Plaintiffs motion is clearly based on Plaintiffs claim of improper pleading. “In ruling on a motion to strike the trial court is limited to considering the grounds specified in the motion.” Meredith v. Police Commission, 182 Conn. 138, 140, 438 A.2d 27 (1980). The operative portion of MRCP § 23(d) is essentially identical to the that of § 10-50 of the Connecticut Practice Book insofar as the distinction between matters which may be proved under a general or special denial and those that require pleading as a special defense:
+No facts may be proved under either a general or special denial except such as show that the plaintiffs statements of facts are untrue. Facts which are consistent with such statements but show, notwithstanding, that the plaintiff has no cause of action, must be specially alleged. Thus, accord and satisfaction, arbitration and award, coverture, duress, fraud, illegality not apparent on the face of the pleadings, infancy, that the defendant was non compos mentis, payment (even though nonpayment is alleged by the plaintiff), release, the statute of limitations and res judicata must be specially pleaded, while advantage may be taken, under a simple denial, of such matters as the statute of frauds, or title in a third person to what the plaintiff sues upon or alleges to be the plaintiffs own.
+Conn. Prac. Bk. § 10-50.
+At oral argument, without conceding the legal sufficiency of the special defenses, Plaintiffs counsel admitted that advantage could be taken of the subjects raised therein under a simple denial. While the first part of § 10-50, dealing with what facts may be proved under a general or special denial, is clearly mandatory, it has long been recognized that confining the pleading of such facts to a simple denial is permissive, not mandatory. The distinction was noted by Judge (later Justice) King in 1946:
+In the first place it should be noted that the language of § 104 (now § 10-50) is not mandatory or exclusive but permissive. It states that “advantage may [not must] be taken, under a simple denial, of such matters as the statute of frauds.”
+Glover v. Sheldon, 14 Conn.Supp. 271, 1946 WL 722 (1946). There is thus no prohibition in pleading specially matters of which advantage could have been taken under a simple denial. In this ease, for example, the special defenses based on estoppel need not have been specially alleged:
+Indeed, it is the rule that requires an estoppel to be specially pleaded that is archaic; see, e.g., Shelton v. Alcox, 11 Conn. 240, 250 (1836); and has not been the law for over a century. See Hawley v. Middlebrook, 28 Conn. 527, 536-37 (1859) (estoppel in pais, arising from conduct, does not have to be specially pleaded). (Footnotes omitted).
+Allied Grocers Co-op., Inc. v. Caplan, 30 Conn.App. 274, 279, 620 A.2d 165 (1993). That the Defendant chose to plead estop-pel as a special defense is a tactical decision that its counsel is free to make. Such an election is especially prudent with respect to the Second, Third, Fourth and Fifth Special Defenses, which arguably could be read as alleging that the proper tax was paid, ie„ “payment (even though nonpayment is alleged by the plaintiff).” As Morton and Knox have noted:
+When counsel is uncertain as to whether the filing of a special defense is necessary, it is generally more prudent to file the special defense and assume the burden of proof. Otherwise, counsel risks not having the issue in his case at all.
+CONNECTICUT PRACTICE SERIES at § 10-50.
+Defendant’s Motion to Strike Defenses is denied.
+. Hoydic v. Genesco, Inc., Superior Court, J.D, of Ansonia-Milford, Docket No. CV-7-5003291 (Holden, J„ May 27, 2010).
+. Why the Plaintiff did not simply serve the agent for service of process on file with the Secretary of State is probably explained by the fact that to do so, the Plaintiff's attorney would have had to make service on his own law firm, which would make for an very interesting marshal’s return of service, but would certainly minimize the marshal's travel charges.
+. Fortunately, the case has progressed beyond the point where insufficiency of service of process is an issue, MRCP §§ 14, 20(c), and it is unquestioned that the Defendant had actual notice.
+. MRCP § 23(d) omits the examples set forth in § 10-50, including the bewildering payment/nonpayment example. The Superior Court rule may be considered by this Court pursuant to MRCP § 1(a).
+. In its brief, Plaintiff attacks each special defense as relying on "matters outside the factual allegations of the complaint," a claim that, taken literally, would prevent the Defendant from making any allegation at all in its special defenses, “A special defense must contain a separate statement of fact, rather than simply incorporating the facts in the complaint.” CONNECTICUT PRACTICE SERIES, Superior Court Rules, Horton & Knox § 10-50.
+. "Even, though certain defenses may be taken advantage of by a simple denial, this is not mandatory, so the defendant may decide to plead them as special defenses anyway.” CONNECTICUT PRACTICE SERIES, Superi- or Court Rules, Horton & Knox § 10-50.
