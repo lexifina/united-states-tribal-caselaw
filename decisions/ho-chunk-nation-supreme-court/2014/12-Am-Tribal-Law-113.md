@@ -1,0 +1,31 @@
+---
+court: "Ho-Chunk Nation Supreme Court"
+docket: "SU 14-04"
+decided: "2014-09-19"
+citations: ["12 Am. Tribal Law 113"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Ellen Blackdeer ANWASH, Appellant, v. HCN ENROLLMENT COMMITTEE, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/12/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6765775
+---
+
+# Anwash v. HCN Enrollment Committee
+
+## Majority (PER CURIAM.)
+
+Order (Denying Motion for Recusal)
+PER CURIAM.
+Appellant submitted Appellant’s Motion to Recme/Disqualify on September 2, 2014, requesting Justice Zunker and Justice Matha recuse themselves from this pending appeal due to a familial relationship with Judge Amanda WhiteEagle, Ho-Chunk Nation Associate Trial Court Judge who issued the judgment in this case in the Trial Court. This Order denies Appellant’s Motion to Recuse/Disqualify insofar as the request relates to Justice Zunker’s participation. Justice Matha issues a decision is a separate order.
+PROCEDURAL HISTORY
+The basis of this appeal stems from an enrollment issue wherein the Committee on Tribal Enrollment (hereinafter “Enrollment Committee”) issued its recommendation requiring Appellant submit to DNA analysis. The Trial Court affirmed the recommendation of the Enrollment Committee. Judgment (Upholding Reissued Order), CV 12-73, (HCN Tr. Ct, May 15, 2014). Appellant appealed the Trial Court’s judgment on July 10, 2014. The Order (Accepting Appeal) was issued on July 14, 2014. On September 2, 2014, Appellant submitted a Motion to Re-cuse/Disqualify with respect to both Justice Zunker and Justice Matha due to a familial relationship with Associate Trial Court Judge Amanda WhiteEagle,
+DECISION
+A recusal may be either mandatory or discretionary. In the instant case, the mandatory grounds for recusal do not exist because Justice Zunker does not have a “direct personal or financial interest” in this matter. Constitution of the Ho-Chunk Nation (hereinafter Constitution), Art. VII, § 13; Ho-Chunk Nation Rules of Judicial Ethics, § 4-2(A). Additionally, the grounds for discretionary recusal are not met either. A presiding judge is directed to make discretionary disclosures to avoid the appearance of impropriety, Ho-Chunk Nation Rules of Judicial Ethics, § 4—2(C). Further, “[a] judge or justice may be recused upon a Motion for Recusal by the party(ies) to avoid the appearance of impropriety.” Ho-Chunk Nation Rules of Judicial Ethics, § 4~2(D). The clarifying comment to this rule states:
+Judges and justices will need to seriously consider recusals. However, a judge or justice should look to case law and the HCN Constitution in determining whether recusal is warranted. Such factors as remoteness in time, the wishes of the parties and the level of impropriety may be considered in making recusal decisions. Comment, Ho-Chunk Nation Rules of Judicial Ethics, § 4~2(D).
+A discretionary recusal based on the appearance of impropriety is a serious matter. The Supreme Court has recognized that “the issue of relationships is one which plagues many tribal court systems.” In re Rick McArthur, SU 97-07 (HCN S.Ct., Feb. 27, 1998), at 3. To grant recu-sals based on distant relationships where Justices can decide the matter fairly and neutrally is not only unnecessary, but opens the door to lengthy delays for cases, creating unnecessary backlog. In HCN Election Bd. V. Debra C. Greengrass, SU 99-03 (HCN S.Ct, May 21, 1999), the Court indicated that “to consider recusal based on a fourth degree of relative, who is not a party in the case, will only serve to limit this Court[’]s ability to hear future cases that involve relatives” at 3-4 (emphasis added). In In re Rick McArthur, the Supreme Court Justice did not recuse herself when the case involved her brother-in-law. In re Rick McArthur, SU 97-07 (HCN S.Ct, Feb. 27, 1998). The Motion for Recusal was denied in that case because the Justice believed she could consider the case in a fair and neutral manner. Id. at 4.
+The Appellant requested recusal of Justice Zunker due to a familial relationship with Judge WhiteEagle. Appellant’s Motion for Recusal, SU 14-04, (HCN S.Ct, Sept. 2, 2014) at 2. Justice Zunker is the granddaughter of Exilda Mary Rockman Stone. Judge WhiteEagle is the granddaughter of Melvin Rockman. Exilda Mary Rockman Stone and Melvin Rock-man were brother and sister. Justice Zunker and Judge WhiteEagle are relatives in the sixth degree of kindred. They did not meet for the first time until 2005, during a National Native American Law Students Association event in Los Angeles, CA. This initial meeting was not due to their distant relation, but instead their shared professional endeavors as law students who were both members of this national organization, which boasts thousands of members; the interaction was brief, cursory and did not continue. Justice Zunker and Judge WhiteEagle did not have a second personal interaction next until the Ho-Chunk Nation 2013 Labor Day Pow Wow in Black River Falls, WT, At this point, Justice Zunker was elected to the Ho-Chunk Nation Supreme Court and scheduled to be sworn in within a few days. Again, the interaction was brief, cursory and did not continue beyond the minimal interaction which exists between the Trial Court Judges and Supreme Court Justices as members of the Ho-Chunk Nation Judiciary. Simply put, there is no appearance of impropriety here.
+This Justice disagrees with any intimation that she could not impartially fulfill her constitutional duties in this case or in any case where Judge WhiteEagle is the presiding judge in the Trial Court. Furthermore, she believes she will decide the case impartially, fairly, and neutrally. Neither mandatory grounds nor discretionary grounds for recusal exist here. Therefore, the Court denies the Motion for Recusal with respect to the request that Justice Zunker recuse herseE Justice Matha issues his decision separately. As such, the Court hereby ORDERS;
+1. That the Appellant’s Motion to Re-cuse/Disqualify is DENIED with respect to the request related to Justice Zunker.
+EGI HESKEKJET.
