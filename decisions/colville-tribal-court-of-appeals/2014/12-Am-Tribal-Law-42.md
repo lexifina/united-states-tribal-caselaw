@@ -1,0 +1,34 @@
+---
+court: "Colville Tribal Court of Appeals"
+docket: "AP14-016"
+decided: "2014-10-08"
+citations: ["12 Am. Tribal Law 42", "6 CTCR 17; 11 CCAR 75"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Justices DUPRIS, CJ, M. POULEY, AJ, and D. NELSON, AJ."]
+parties: ["Georgiann MUERI, Appellant, v. Gerold CARDEN, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/12/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6764846
+cites_cases: ["10 Am. Tribal Law 195", "11 Am. Tribal Law 310", "9 Am. Tribal Law 119"]
+---
+
+# Mueri v. Carden
+
+## Majority
+
+This matter came before the Court of Appeals for an Initial Hearing on September 19, 2014. Appellee, Georgia Mueri, appeared in person and with her spokesman, Jay Manon. Appellant, Ge-rold Carden, appeared in person and was not represented by counsel. Based on the reasoning set out below the Court finds that the Trial Court’s order dated July 25, 2014 should be vacated and the matter remanded for a hearing on the issues herein.
+DISCUSSION
+The relevant facts show that Appellant has a judgment against Appellee from an Okanogan County Superior Court order (State Order). The State Order was recognized as a Tribal Court order after a Show Cause hearing on March 31, 2014, at which both parties attended. On April 8, 2014 Appellant filed an Application for Writ of Garnishment against Appellee’s wages from his job with the Colville Tribes’ Correctional Facilities. The request for the Writ of Garnishment was granted without a hearing on April 29, 2014. The Clerk’s -Office mailed a copy of the Writ Application and Order granting the Writ to Appellee on May 1, 2014.
+On May 19, 2014 Appellee filed a request with the Trial Court for a hearing on the Writ of Garnishment and asked for an exemption from the garnishment. The record shows that someone from the Tribes’ Payroll Department twice filled out paperwork submitted to her to initiate the withholding of an amount from Appellee’s wages based on the Writ entered on April 29, 2014.
+The Trial Court Judge, it appears, requested legal advice from the Office of Reservation Attorney (ORA); one of the Reservation Attorneys, responded by memorandum on what he believed the law should be on garnishments for the Tribes. The Trial Judge read the memorandum into the record and adopted the substance of its language in her Memorandum Opinion and Order of Dismissal dated July 25, 2014 (Tribal Order). Neither party was asked to put on record his or her arguments for or against the garnishment. The Judge entered the order sua sponte. It is from this Order that Appellant has filed her appeal.
+This case is being sent back to the Trial Court for two reasons: (1) no due process was provided to either party before the Tribal Order of July 25, 2014 was entered; and (2) the Trial Judge solicited legal advice from a potential party.
+I. DUE PROCESS
+We have stated several times, in several cases, that due process requires, at a minimum, the right to adequate notice, an opportunity to be heard, and an opportunity to present one’s case before the Court rules on an issue before it. Eg., Lambert v. CCT, 10 CCAR 52 (2011) (failure to give adequate notice); Lezard v. Deconto, 10 CCAR 23, 9 Am. Tribal Law 119 (2009) (basic tenets of procedural due process); Zavala v. Milstead, 10 CCAR 58, 10 Am. Tribal Law 195 (2011) (Appellant afforded procedural due process); Edwards v. Bercier, 10 CCAR 18 (2009) (even an appearance of bias towards one party over another violates tenets of procedural due process); Colville Indian Housing Authority v. Edwards, 11 CCAR 54, 11 Am. Tribal Law 310 (2014) (interlocutory appeal granted when Judge entered decision without allowing the parties an opportunity to present their arguments, and without providing a hearing); Goujon v. CTEC, 9 CCAR 57 (2008). Some of these cited cases were heard by the Trial Judge appealed in this case.
+The benchmarks for procedural due process are well-established in our jurisprudence. Providing the minimum, basic requirements of procedural due process, ie. adequate, meaningful notice, opportunity to be heard, and opportunity to present one’s case before a decision is made, should be second nature to all trial judges by now. To paraphrase what we stated in Edwards v. Bercier, supra, when the Trial Judge fails to allow both parties to present their cases before making his decision, it gives an appearance of bias and unfairness.
+The Judge in this ease, when presented with a Motion to Continue the hearing set on May 19, 2014, went into the next hearing with her decision to dismiss the case already made. At the Oral Arguments in this Court on September 19, 2014, both parties stated that neither were given notice that the Judge was considering dismissing the case. Appellee did not disagree with the decision, but stated he had asked for a hearing on the Writ of Garnishment entered on April 29, 2014. Neither party were given an opportunity to argue his or her position on the issue of whether the garnishment should continue, nor were either given an opportunity to present evidence on his or her own behalf. Procedural due process was non-existent in this case. For this reason we vacate the Tribal Order and remand the case back to the Trial Court.
+II. POTENTIAL PARTY
+The record shows that an attorney from the Tribes’ Office of Reservation Attorney (ORA) provided legal advice to the Trial Judge on the issue of garnishment of the wages Appellee earns as an employee of a tribal department, ie, the tribal Corrections Facility. The attorneys of the ORA are the chief legal counsel and attorneys general for the Tribal Government, with the Colville Business Council as the Tribal Government’s representative. CTC, Section 1-4-1. The ORA report directly to, and are directly supervised by the Colville Business Council (CBC), who are the ORA’s principal client. CTC, Section 1-4-8.
+The Corrections Facility is a department of the Tribal Government. The Writ of Garnishment was issued against the Corrections Facilities as the employer of Appellee, and as garnishee. If the ORA disagrees with the garnishment it has a statutory obligation to represent the interests of the CBC (Tribal Government). This makes the ORA the legal representative of a potential party to this lawsuit, ie. the entity that has ownership of the wages at the time the wages are garnished. The Trial Court should not solicit legal input from a potential party, For this reason the Tribal Order should be vacated.
+For the reasons stated the Memorandum Opinion and Order dated July 25, 2014 is hereby VACATED and this matter is REMANDED to the Trial Court for actions consistent with this Opinion.
