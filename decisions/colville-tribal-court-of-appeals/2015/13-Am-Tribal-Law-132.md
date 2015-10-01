@@ -1,0 +1,39 @@
+---
+court: "Colville Tribal Court of Appeals"
+docket: "AP15-012"
+decided: "2015-10-01"
+citations: ["13 Am. Tribal Law 132", "6 CTCR 32; 12 CCAR 39"]
+reporter: "am-tribal-law"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ANITA DUPRIS, DENNIS L. NELSON, and MICHAEL TAYLOR, JJ."]
+parties: ["In re the Writ of Habeas Corpus for Max LAZARD. Garry Zacherle, Appellant, v. Max Lazard, Appellee."]
+source_url: "https://static.case.law/am-tribal-law/13/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12170914
+cites_cases: ["124 Stat. 2258", "124 Stat. 2261"]
+---
+
+# Zacherle v. Lazard
+
+## Majority (TAYLOR, J.)
+
+TAYLOR, J.
+This matter comes before the Court of Appeals (COA) for an Initial Hearing on September 18, 2015 upon an appeal of a Writ of Habeas Corpus issued by the Trial Court on July 20, 2015. Appellant appeared through counsel, Michael Humi-ston, CCT Office of Reservation Attorney; Appellee appeared through counsel, David Stevens, CCT Public Defender’s Office. After reviewing the record and applicable law, we find the Trial Court erred in issuing the Writ of Habeas Corpus. The reasoning is set out below.
+SUMMARY OF FACTS
+Appellee in this matter sought a Writ of Habeas Corpus from the Trial Court based on his claim that aspects of his sentencing violated the Tribal Law and Order Act of 2010, in that the public structure of Col-ville Tribal law did not provide published rules of evidence. The Trial Court granted the Writ and Appellee was released from custody. At the time the Writ was sought Appellee was in custody pending an active appeal of his convictions.
+On August 21, 2014, Appellee was charged with four counts involving Delivery of a Controlled Substance. On September 25, 2014, he pleaded guilty to Count 1, Count 2, and Count 4 of the complaint. Count 3 was dismissed pursuant to a plea bargain. He was informed on his Statement of Guilty Plea, which he initialed, that “The judge does not have to follow anyone’s recommendation as to sentence and may sentence up to the maximum allowed by law. The judge may also decide to make my sentences run concurrently or consecutive.” The joint sentencing recommendation was 360 days in jail and 180 days suspended with one year supervised probation. The Court ordered a Pre-sentence Investigation. The Pre-sentence Investigation recommended 360-days incarceration with two years of supervised probation.
+On November 21, 2014, Appellee was sentenced to 360 days on Count 1 with no time suspended; 360 days on Count 2 with no time suspended; and 360 days on Count 4 with 360 days suspended. Appellee was allowed to go to treatment and get day-for-day credit after serving one year. The Court imposed 36-months’ probation. Ap-pellee noted his exception to probation length, but did not raise issues regarding the Indian Civil Rights Act and its recent amendments, titled the Tribal Law and Order Act of 2010. Thus, the Trial Court had no opportunity to rule on the sentencing limitations in the TLOA.
+Appellee timely appealed his sentencing to this Court (November 25, 2014) arguing that the length of his sentencing/probation violated the ICRA/TLOA because the manner in which the Colville Tribal Law and Order Code and the common law of the Colville Tribes establish tribal rules of evidence places mandatory TLOA limits upon the sentencing/probation authority of the Tribal Court. Appellee’s appeal is still pending before this Court. Briefing and oral arguments have been completed and the matter fully submitted on September 18, 2015.
+Several months after his sentencing and appeal, Appellee petitioned for a writ of habeas corpus (July 15, 2015) pursuant to CTC § 2-1-121, arguing that the manner in which Colville Tribal Law treats rules of evidence places mandatory TLOA limits on the sentencing authority of the Colville Tribal Court. Appellee argued that the length of his sentence/probation was beyond that permitted by the provisions of TLOA.
+At the same time Appellee, pursuant to CTC § 1-1-143, filed a motion with the Trial Court to disqualify the judge who sentenced him. The reasons for disqualification set out in the Affidavit of Prejudice included sentencing Appellee to terms different than those recommended by (1) prosecution and defense and (2) the Pre-sentence Investigation. In addition, the Affidavit alleged that the sentence imposed by the Court violated “the Indian Civil Rights Act of 1968 as amended.” (i.e., TLOA).
+The Trial Court on July 17, 2015, acting through a reviewing judge, granted the Motion disqualifying the sentencing judge from hearing the Appellee for a writ of habeas corpus, finding that the sentencing judge imposed a sentence “double the joint recommendation and far in excess of the Pre-sentence Investigation.
+On July 17, 2015, the Court granted the Appellee the writ of habeas corpus and directed the release of Appellee from incarceration. The Tribes timely filed an appeal of the granting of the writ and the disqualification of the sentencing judge. The Order granting the Writ reviews the requirements and limitation included in TLOA and finds that, because Colville law does not comply with certain provisions of TLOA, the sentence imposed upon Appel-lee was and is beyond the jurisdiction of the Tribal Court and unlawful. Order, Conclusions of Law and Order granting Writ of July 17,2015.
+DISCUSSION
+The Trial Court wherein the Petition for the Writ was filed appears to have been aware that a habeas writ may 'not issue when the basis upon which the writ is sought is also the basis of an active proceeding before the Court of Appeals. Zacherle v. CCT, 8 CCAR 70, 4 CTCR 30 (2006). Trial Court Order of 20 July 2015, Finding of Fact # 1.6.
+The Order granting the Writ states “The issue before the Court of Appeals varies from Mr. Lazard’s legal issues outlined in the Habeas Petition in this action.” No support for this statement is provided either in the Findings, the Conclusions or in the Petition. There is no indication in the Order that the Trial Court in which the Petition for the Writ was filed reviewed any of the filings in Max Harley Lazard v. CCT, AP-14-019 which would have revealed that the basis upon which the Writ was sought, i.e., sentencing beyond that allowed pursuant to the Tribal Law and Order Act of 2010, Pub.L. 111-211, 124 Stat. 2258 (2010), is precisely an issue put before this Court in appeal of Appellee’s convictions.
+Pursuant to our holding in Zacherle v. CCT, 8 CCAR 70, 4 CTCR 30 (2006) a trial court must decline to hear a question when that very question is already pending before this Court. The failure of the Trial Court to follow the law as set out in Zacherle divested the Trial Court of jurisdiction to grant the Writ. See also: Desautel v. Dupris, 11 CCAR 6, 8 (2011). We hold that the Trial Court lacked jurisdiction to entertain the Petition for the writ of habeas corpus in this case.
+ORDER
+Based on the foregoing, it is ORDERED that the Writ of Habeas Corpus issued on July 17, 2015 in this matter is void and this matter is remanded to the Trial Court for proceedings consistent with this opinion.
+. Tribal Law and Order Act of 2010, Pub.L. No. 111-211, 124 Stat. 2261 (TLOA).
+. While our holding in this matter causes the issue of disqualification of the trial judge to be moot, the finding of the reviewing court would appear to lack careful consideration. Issues that might have been considered by the reviewing court include that the Appellee had written notice of judicial discretion in his sentencing, current Colville law appeared to permit the sentence imposed by the trial judge and sentencing, when accomplished within the law of the jurisdiction, is generally not considered evidence of judicial prejudice.
